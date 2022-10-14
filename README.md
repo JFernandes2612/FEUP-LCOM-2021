@@ -1,4 +1,4 @@
-# LCOM
+# LCOM - Computer Laboratory
 
 LCOM group T6G01.
 
