@@ -1,0 +1,6 @@
+<map id="animate_spearman_death" name="animate_spearman_death">
+<area shape="rect" id="node1" title="Animates the spearman&#39;s directional move." alt="" coords="523,5,693,32"/>
+<area shape="rect" id="node2" href="$player_8h.html#a21201934ad44d6ccf7beb9ae2278dda7" title="Animates the spearman according to its action." alt="" coords="343,5,475,32"/>
+<area shape="rect" id="node3" href="$entities_8h.html#aeae621c58e08b754e9c212bee6d0f477" title="Updates the animations of all Entities." alt="" coords="164,5,295,32"/>
+<area shape="rect" id="node4" href="$_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,116,32"/>
+</map>

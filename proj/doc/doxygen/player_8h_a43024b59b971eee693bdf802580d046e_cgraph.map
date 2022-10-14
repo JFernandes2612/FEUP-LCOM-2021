@@ -1,0 +1,7 @@
+<map id="spearman_act" name="spearman_act">
+<area shape="rect" id="node1" title="The spearman acts acording to action in PA." alt="" coords="5,31,108,57"/>
+<area shape="rect" id="node2" href="$player_8c.html#a05430863106de447d8a85bb9d840284f" title="The spearman attacks in its direction." alt="" coords="156,5,277,32"/>
+<area shape="rect" id="node4" href="$player_8c.html#a2e812fcd1282d5901ee15ee07434f73b" title="The spearman moves in direction." alt="" coords="157,56,276,83"/>
+<area shape="rect" id="node3" href="$entities_8c.html#a7458b099aabee51298042e2edde9e2d8" title="Modifies the HP of an Entity in position ( x , y ) by health_mod." alt="" coords="325,5,444,32"/>
+<area shape="rect" id="node5" href="$entities_8c.html#a525a3fe4f3a4d24d73ce258b817462d7" title="Moves an entity from position ( curr_x , curr_y ) to postition ( new_x, new_y )" alt="" coords="343,56,426,83"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="update_animations" name="update_animations">
+<area shape="rect" id="node1" title="Updates the animations of all Entities." alt="" coords="307,5,437,32"/>
+<area shape="rect" id="node2" href="$dd/d65/game__helper_8h.html#ac2e814f8670e374692b399122563067d" title="Performs all game logic and displaying that occurs every frame depending on the game state." alt="" coords="164,5,259,32"/>
+<area shape="rect" id="node3" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,116,32"/>
+</map>

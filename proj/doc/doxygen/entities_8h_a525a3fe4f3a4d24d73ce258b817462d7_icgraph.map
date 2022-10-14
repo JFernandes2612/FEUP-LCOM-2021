@@ -1,0 +1,8 @@
+<map id="grid_move" name="grid_move">
+<area shape="rect" id="node1" title="Moves an entity from position ( curr_x , curr_y ) to postition ( new_x, new_y )" alt="" coords="517,31,600,57"/>
+<area shape="rect" id="node2" href="$enemies_8h.html#aa5b90db246913c9baf07f38ffb39af80" title="Makes the blob act (move or attack)" alt="" coords="355,5,465,32"/>
+<area shape="rect" id="node5" href="$player_8h.html#a2e812fcd1282d5901ee15ee07434f73b" title="The spearman moves in direction." alt="" coords="351,56,469,83"/>
+<area shape="rect" id="node3" href="$enemies_8h.html#a551793ac2170b5920afc6931f2beba65" title="Moves every enemy in the grid." alt="" coords="164,5,303,32"/>
+<area shape="rect" id="node4" href="$_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node6" href="$player_8h.html#a43024b59b971eee693bdf802580d046e" title="The spearman acts acording to action in PA." alt="" coords="182,56,285,83"/>
+</map>

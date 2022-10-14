@@ -1,0 +1,9 @@
+<map id="player.c" name="player.c">
+<area shape="rect" id="node1" title=" " alt="" coords="91,5,159,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="136,229,215,256"/>
+<area shape="rect" id="node3" title=" " alt="" coords="22,80,114,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="138,80,226,107"/>
+<area shape="rect" id="node5" href="$player_8h.html" title=" " alt="" coords="250,80,320,107"/>
+<area shape="rect" id="node6" href="$entities_8h.html" title=" " alt="" coords="248,155,322,181"/>
+<area shape="rect" id="node7" title=" " alt="" coords="240,229,354,256"/>
+</map>

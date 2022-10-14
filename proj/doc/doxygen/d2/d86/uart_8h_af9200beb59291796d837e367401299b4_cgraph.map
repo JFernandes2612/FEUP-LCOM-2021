@@ -1,0 +1,7 @@
+<map id="sync_players" name="sync_players">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,103,57"/>
+<area shape="rect" id="node2" href="$d1/d87/uart_8c.html#ad98091201e75ffc65de031e31b3e4032" title="First step of syncing the players in COOP mode." alt="" coords="160,5,268,32"/>
+<area shape="rect" id="node5" href="$d1/d87/uart_8c.html#a265bc12c2a740b346234525c57d8b5a3" title="Second step of syncing the player in COOP mode." alt="" coords="151,56,277,83"/>
+<area shape="rect" id="node3" href="$d1/d87/uart_8c.html#a1fecae2103dd5c010cb5e507e93d8125" title="Sends a byte to the UART." alt="" coords="325,31,436,57"/>
+<area shape="rect" id="node4" href="$d3/d91/utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Gets from port 8 bit information to value." alt="" coords="484,31,573,57"/>
+</map>

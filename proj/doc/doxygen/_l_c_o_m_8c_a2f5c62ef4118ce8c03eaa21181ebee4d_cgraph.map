@@ -1,0 +1,6 @@
+<map id="rtc_ih" name="rtc_ih">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,60,32"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#abf6f23e3a37b625fce812ca09b3f35df" title="Reads the Register reg of the RTC." alt="" coords="259,5,380,32"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#a01efed7ef3d173bcbbeefbde025f38ac" title="Reads the time from the RTC." alt="" coords="108,31,211,57"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Gets from port 8 bit information to value." alt="" coords="428,5,517,32"/>
+</map>

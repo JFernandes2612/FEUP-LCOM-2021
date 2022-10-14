@@ -1,0 +1,16 @@
+<map id="process_mouse_input" name="process_mouse_input">
+<area shape="rect" id="node1" title="Processes the input that comes from the mouse and executes the associated logic." alt="" coords="5,208,152,235"/>
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#ae495df15c9dad2e1d052e15c6526423e" title="Generates a new background (including UI background)" alt="" coords="213,56,345,83"/>
+<area shape="rect" id="node6" href="$d2/dba/game__helper_8c.html#aa1ee142c726e35646cf2262524f54d14" title="Generates the random enemy board on the grid." alt="" coords="222,132,335,159"/>
+<area shape="rect" id="node8" href="$d5/df6/entities_8c.html#a314d93b7fcb388099c24b5e3f1b01e28" title="Add entity to the game board." alt="" coords="421,208,493,235"/>
+<area shape="rect" id="node12" href="$d1/db8/player_8c.html#af0ddce6da5510e0a1f6978c51c37e8a3" title=" " alt="" coords="217,233,340,260"/>
+<area shape="rect" id="node13" href="$d1/d87/uart_8c.html#a1fecae2103dd5c010cb5e507e93d8125" title="Sends a byte to the UART." alt="" coords="561,245,672,272"/>
+<area shape="rect" id="node14" href="$d5/d95/graphics_8c.html#af88d251a72a7758e8142ef1b19ae9730" title="Updates the mouse position." alt="" coords="200,335,357,361"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#ac057f434904c38cc92e73cb8c9886e1c" title="Fills an area of the screen." alt="" coords="415,5,498,32"/>
+<area shape="rect" id="node5" href="$d5/d95/graphics_8c.html#a6386a61a54c277c05a7ab9d5737edcd8" title="Paints a XPM file in the screen at coordinates ( start_x , start_y )" alt="" coords="415,56,498,83"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#ac8c3ed74f805c5bccd091d94f5d72242" title="Paints a pixel in coordinates ( x , y ) with colour." alt="" coords="575,31,659,57"/>
+<area shape="rect" id="node7" href="$db/d6f/enemies_8c.html#a1543e46ad54303b0781dd9bb4eac88e8" title="Create a green blob object (entity)" alt="" coords="405,107,508,133"/>
+<area shape="rect" id="node9" href="$d4/dcc/rtc_8c.html#a01efed7ef3d173bcbbeefbde025f38ac" title="Reads the time from the RTC." alt="" coords="405,157,508,184"/>
+<area shape="rect" id="node10" href="$d4/dcc/rtc_8c.html#abf6f23e3a37b625fce812ca09b3f35df" title="Reads the Register reg of the RTC." alt="" coords="556,183,677,209"/>
+<area shape="rect" id="node11" href="$d3/d91/utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Gets from port 8 bit information to value." alt="" coords="725,220,815,247"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="spearman_move" name="spearman_move">
+<area shape="rect" id="node1" title="The spearman moves in direction." alt="" coords="5,5,124,32"/>
+<area shape="rect" id="node2" href="$d5/df6/entities_8c.html#a525a3fe4f3a4d24d73ce258b817462d7" title="Moves an entity from position ( curr_x , curr_y ) to postition ( new_x, new_y )" alt="" coords="172,5,255,32"/>
+</map>

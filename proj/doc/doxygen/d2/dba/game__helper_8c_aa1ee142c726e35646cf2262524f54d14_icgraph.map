@@ -1,0 +1,6 @@
+<map id="create_enemies" name="create_enemies">
+<area shape="rect" id="node1" title="Generates the random enemy board on the grid." alt="" coords="359,31,472,57"/>
+<area shape="rect" id="node2" href="$dd/d65/game__helper_8h.html#a72c30bee155342f972c892a5a8d4a175" title="Processes the input that comes from the mouse and executes the associated logic." alt="" coords="164,5,311,32"/>
+<area shape="rect" id="node4" href="$dd/d65/game__helper_8h.html#a03d9f7e90ecc6a670f43c0510bf272c0" title="Processes the incoming packet from the UART (COM1) and executes the associated logic." alt="" coords="167,56,308,83"/>
+<area shape="rect" id="node3" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,31,116,57"/>
+</map>

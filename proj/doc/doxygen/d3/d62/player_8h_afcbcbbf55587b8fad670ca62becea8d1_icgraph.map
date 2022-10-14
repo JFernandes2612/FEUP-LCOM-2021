@@ -1,0 +1,7 @@
+<map id="animate_spearman_move" name="animate_spearman_move">
+<area shape="rect" id="node1" title="Animates the spearman&#39;s directional move." alt="" coords="665,5,836,32"/>
+<area shape="rect" id="node2" href="$d3/d62/player_8h.html#a21201934ad44d6ccf7beb9ae2278dda7" title="Animates the spearman according to its action." alt="" coords="485,5,617,32"/>
+<area shape="rect" id="node3" href="$dd/d5a/entities_8h.html#aeae621c58e08b754e9c212bee6d0f477" title="Updates the animations of all Entities." alt="" coords="307,5,437,32"/>
+<area shape="rect" id="node4" href="$dd/d65/game__helper_8h.html#ac2e814f8670e374692b399122563067d" title="Performs all game logic and displaying that occurs every frame depending on the game state." alt="" coords="164,5,259,32"/>
+<area shape="rect" id="node5" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,116,32"/>
+</map>

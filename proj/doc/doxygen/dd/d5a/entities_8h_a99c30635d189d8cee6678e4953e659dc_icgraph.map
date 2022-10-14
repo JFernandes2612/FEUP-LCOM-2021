@@ -1,0 +1,6 @@
+<map id="delete_grid" name="delete_grid">
+<area shape="rect" id="node1" title="Deletes the grid entities (frees memory)" alt="" coords="353,56,440,83"/>
+<area shape="rect" id="node2" href="$dd/d65/game__helper_8h.html#a7562d024344a09070adef285be55ef46" title="Processes the input that comes from the keyboard and executes the associated logic." alt="" coords="170,5,299,32"/>
+<area shape="rect" id="node3" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,116,83"/>
+<area shape="rect" id="node4" href="$dd/d65/game__helper_8h.html#a03d9f7e90ecc6a670f43c0510bf272c0" title="Processes the incoming packet from the UART (COM1) and executes the associated logic." alt="" coords="164,107,305,133"/>
+</map>

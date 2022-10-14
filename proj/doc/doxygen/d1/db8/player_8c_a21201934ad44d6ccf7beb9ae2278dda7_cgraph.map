@@ -1,0 +1,9 @@
+<map id="animate_spearman" name="animate_spearman">
+<area shape="rect" id="node1" title="Animates the spearman according to its action." alt="" coords="5,81,137,108"/>
+<area shape="rect" id="node2" href="$d1/db8/player_8c.html#a1ef2d92b05b9c22e1811bf09a80f1fc0" title="Animates the spearman&#39;s attack." alt="" coords="187,5,362,32"/>
+<area shape="rect" id="node3" href="$d1/db8/player_8c.html#aeec69c660cc505f7ca09f29987131823" title="Animates the spearman&#39;s directional move." alt="" coords="189,56,360,83"/>
+<area shape="rect" id="node4" href="$d1/db8/player_8c.html#afcbcbbf55587b8fad670ca62becea8d1" title="Animates the spearman&#39;s directional move." alt="" coords="189,107,360,133"/>
+<area shape="rect" id="node5" href="$d1/db8/player_8c.html#a909f31d95b754c4e0200dab6f3246d41" title="Animates the spearman&#39;s special attack." alt="" coords="185,157,364,184"/>
+<area shape="rect" id="node6" href="$d5/d95/graphics_8c.html#a6386a61a54c277c05a7ab9d5737edcd8" title="Paints a XPM file in the screen at coordinates ( start_x , start_y )" alt="" coords="412,157,495,184"/>
+<area shape="rect" id="node7" href="$d5/d95/graphics_8c.html#ac8c3ed74f805c5bccd091d94f5d72242" title="Paints a pixel in coordinates ( x , y ) with colour." alt="" coords="543,157,627,184"/>
+</map>

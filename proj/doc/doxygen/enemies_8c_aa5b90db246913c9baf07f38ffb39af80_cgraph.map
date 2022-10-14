@@ -1,0 +1,5 @@
+<map id="green_blob_act" name="green_blob_act">
+<area shape="rect" id="node1" title="Makes the blob act (move or attack)" alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$entities_8c.html#a7458b099aabee51298042e2edde9e2d8" title="Modifies the HP of an Entity in position ( x , y ) by health_mod." alt="" coords="164,5,283,32"/>
+<area shape="rect" id="node3" href="$entities_8c.html#a525a3fe4f3a4d24d73ce258b817462d7" title="Moves an entity from position ( curr_x , curr_y ) to postition ( new_x, new_y )" alt="" coords="182,56,265,83"/>
+</map>

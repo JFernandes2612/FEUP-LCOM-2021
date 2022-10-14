@@ -1,0 +1,261 @@
+64 64 196 2 
+   c #0D0808
+.  c #160E08
+X  c #0F1408
+o  c #12160B
+O  c #1D1109
++  c #141A0D
+@  c #1C1D0F
+#  c #1C1613
+$  c #161B10
+%  c #1A1E12
+&  c #221508
+*  c #2B1709
+=  c #251809
+-  c #2B1A09
+;  c #311E09
+:  c #2A1C13
+>  c #241E1C
+,  c #1D2413
+<  c #1F2916
+1  c #2F200D
+2  c #34210B
+3  c #3B240D
+4  c #3E280E
+5  c #212613
+6  c #282017
+7  c #232B17
+8  c #24231C
+9  c #2B241D
+0  c #242D19
+q  c #2E281F
+w  c #3B2613
+e  c #32281F
+r  c #372716
+t  c #26311A
+y  c #2A351D
+u  c #2E3A1F
+i  c #313017
+p  c #36371D
+a  c #2C2422
+s  c #262629
+d  c #2B2825
+f  c #352E26
+g  c #3B2F27
+h  c #342D2A
+j  c #392F29
+k  c #2B3620
+l  c #3B3127
+z  c #36352E
+x  c #3A332D
+c  c #303C21
+v  c #2F2F33
+b  c #302E30
+n  c #353333
+m  c #3D3532
+M  c #3F3A35
+N  c #3C3B3C
+B  c #40250E
+V  c #442B0E
+C  c #482E0F
+Z  c #452C11
+A  c #4B2E10
+S  c #472F18
+D  c #463112
+F  c #4C3111
+G  c #48361B
+H  c #533412
+J  c #5C3615
+K  c #5C3A15
+L  c #50371A
+P  c #543918
+I  c #573916
+U  c #633E17
+Y  c #633E18
+T  c #423124
+R  c #4B3624
+E  c #45372D
+W  c #473C2F
+Q  c #4B372A
+!  c #413631
+~  c #433A34
+^  c #443D3B
+/  c #493F3C
+(  c #674217
+)  c #6B4218
+_  c #70471C
+`  c #494137
+'  c #45413C
+]  c #4D433B
+[  c #52453A
+{  c #544B3A
+}  c #5A4D3B
+|  c #554636
+ . c #5D513F
+.. c #694726
+X. c #754D25
+o. c #674F37
+O. c #6B5036
++. c #735339
+@. c #3B3B42
+#. c #363942
+$. c #4B4542
+%. c #4D4943
+&. c #4E4D4D
+*. c #49464C
+=. c #514542
+-. c #534B43
+;. c #574F4C
+:. c #5A4E4A
+>. c #5E4F46
+,. c #5A5243
+<. c #56514A
+1. c #5B534C
+2. c #464750
+3. c #4E4D53
+4. c #4C4D5A
+5. c #5B5452
+6. c #5C575A
+7. c #5D595A
+8. c #535259
+9. c #605542
+0. c #6B5746
+q. c #655848
+w. c #645849
+e. c #715B4F
+r. c #645653
+t. c #635D56
+y. c #6B5D57
+u. c #635C5C
+i. c #6B5C58
+p. c #6A604B
+a. c #7A614D
+s. c #6F605E
+d. c #7E6455
+f. c #7E6857
+g. c #746856
+h. c #5A5C65
+j. c #635E62
+k. c #656164
+l. c #6D6461
+z. c #64646C
+x. c #776865
+c. c #6E6F78
+v. c #6F6C73
+b. c #7B6F74
+n. c #726B75
+m. c #767476
+M. c #727078
+N. c #7E7478
+B. c #85684E
+V. c #826955
+C. c #8C6C54
+Z. c #856758
+A. c #846B5A
+S. c #886E5A
+D. c #916F5E
+F. c #8D715C
+G. c #92735D
+H. c #9A775F
+J. c #816F6F
+K. c #877566
+L. c #937662
+P. c #967A64
+I. c #9A7D66
+U. c #9A796A
+Y. c #867A7A
+T. c #847773
+R. c #917A73
+E. c #AA836E
+W. c #A28579
+Q. c #B38A76
+!. c #B7937B
+~. c #7C7B85
+^. c #82818B
+/. c #87888F
+(. c #938888
+). c #8B8C96
+_. c #868891
+`. c #918F96
+'. c #979298
+]. c #A88D85
+[. c #A7988E
+{. c #A4908F
+}. c #B99F89
+|. c #AB9595
+ X c #B09993
+.X c #9E97A1
+XX c #AAA2AB
+oX c #BBB2A4
+OX c #C9A693
++X c #C8B8A8
+@X c #DCC6AA
+#X c #E8C6A9
+$X c #ECCCB0
+%X c #EFE1CD
+&X c #EEE4D2
+*X c #FF00DC
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xr.r.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X=.l.J.J.b.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X~ =.r.y.y.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xh ~ r.y.r.=.*X*X`./.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xj / -.:.:.-.*X*X(.'.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xh n ! / / ] *X*X(.XX*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X> > s a h *X*X*Xl.Y.k.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X# # > a *X*X*Xe.A.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X8 > h ! *X*X*X*XS.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*XR o.[ 0.B.*X*X*X*XV.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*XZ H K X.X._ ( K *X*XS.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xh.z.*X*XC H I U K ( ) ) ( I *XG.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X/ 7.c.*X2 F H K K K K U Y ) Y H D.C.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*XM k.).;.3 Z F H H H I H U Y U H Z.D.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xh ~ k._.=.3 3 4 C V V C C F J U H 0.D.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xj ~ 7.~.` - = * ; ; ; 2 2 3 V A H X.H.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xj m 6.^.[ * & & & * * * * ; ; B A ..G.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xl m 5.`.:.* & & O & & & & - - ; w L C.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xf x 5.`.;.& & O O O O O O - = * ; S C.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xf ! u.'.s.* & O & & & & = - * & 1 a.!.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xl ! u..X{.U./ = = = = * - ; - T E.#X@X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xf ~ z.XXOXQ.T = = * * - 2 2 - Q !.$X%X[.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xl ^ v.XX XR.l 9 = * * = = 2 p E Z.OXoXm.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xf / m.^.4.n w E $.8.5.u.s.s.o.S M 3.8.8.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xj / T.M.N : Z C C C C A F I U H 2 s #.2.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xj $.Y.k.v - Z F F C F F F H U U H a v 2.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xf :.(.u.9 2 D D C D F F H I ( Y U *Xs #.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xf r.{.*X*X3 Z C C D D F F H K ) _ *X*XK.oX*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xf l.|.W.0.G D D F F F F H P K X.O.*XK.+X%X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xf b.|.U.,.[ G F F H H H P P o.A.g.*X*XL.}.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xj Y.|.*X' %.$.` W W ` { { ,.p.g.q.*X*XS.L.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xx N.n.*X^ %.%.%.-.] [ {  .o.q.q.9.*X*XS.I.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xn b.*X*XM %.%.-.<.-.{ { { {  . .{ *X*XA.L.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*XN j.*X*X*X$.' %.%.-.-.` { {  . .{ *X*Xd.L.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xn ^ *X*X*XN ' ' $.-.-.<.5.,.<.,.-.*X*Xf.I.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xa *X*X*X*Xh z z M ' %.1.p.t.p.s.1.*X*X*XI.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X8 9 9 a x <.7.p.5.' *X*X*X*XP.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X+ o $ % d M N v 8 < *X*X*X*XL.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*XX o o + *Xo o + < 0 *X*X*X*XL.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*XX o o + *X*X+ , < < *X*X*X*XF.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xo o o + *X*X$ , < < *X*X*X*XS.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X$ + , , *X*X< t y 0 *X*X*X*XS.A.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X, 5 t t *X*X< u k t *X*X*X*XA.V.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X5 7 0 t *X*X, 0 t t *X*X*X*XA.A.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X5 7 t 0 *X*X+ $ 0 y *X*X*X*X*XS.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X, 7 7 0 5 *X*X+ o < y *X*X*X*X*XF.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X5 t t t 0 *X*XX X < u u *X*X*X*XF.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X5 t y y i *X*X@ $ 0 u u *X*X*X*XL.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X2 p l G G *X*X, , 0 c p *X*X*X*XG.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X= 3 A A 4 *X*X- 3 G P H *X*X*X*XL.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X^ g r R [ *X*X: * ; w T *X*X*X*XL.A.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xb $.;.r.*X*X*Xm ~ ] u.z.*X*X*X*XS.a.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X. & - 2 *X*X*X*X> 9 a *X*X*X*X*XS.d.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*XO = - 2 *X*X*X*X& = ; *X*X*X*X*X! x *X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X@.7.u.6.' *X*Xf n ~ 1.k.*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xe $.;.m 6 *X*X# h &.7.} *X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X2 H H 4 - *X*XO 2 V H F *X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X& 4 4 3 O *X*X. - 3 V 3 *X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*Xo & = = *X*X*X*XO & = = *X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X    *X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X
+*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X*X

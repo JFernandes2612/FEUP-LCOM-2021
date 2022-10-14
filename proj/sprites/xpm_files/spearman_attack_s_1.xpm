@@ -1,0 +1,253 @@
+64 64 188 2 
+   c #140D08
+.  c #0E1408
+X  c #11150B
+o  c #1D1208
+O  c #141A0D
++  c #171710
+@  c #151C10
+#  c #181E11
+$  c #1F1B17
+%  c #221408
+&  c #241809
+*  c #2B1A08
+=  c #321D0A
+-  c #2D1E13
+;  c #211C16
+:  c #192111
+>  c #1D2B15
+,  c #1F2019
+<  c #33210A
+1  c #3B240C
+2  c #3D290D
+3  c #2C2213
+4  c #252D18
+5  c #2A211A
+6  c #342A1D
+7  c #3A2C1D
+8  c #372917
+9  c #29351B
+0  c #3A3418
+q  c #242323
+w  c #2B2625
+e  c #2E2A24
+r  c #2C2A2B
+t  c #342C25
+y  c #3F2D21
+u  c #393225
+i  c #34322D
+p  c #3D342C
+a  c #343324
+s  c #2E3435
+d  c #343334
+f  c #3B3632
+g  c #3D3932
+h  c #353439
+j  c #383738
+k  c #3D3B3D
+l  c #432C0E
+z  c #492E0E
+x  c #42260E
+c  c #4C320F
+v  c #442B10
+b  c #482C10
+n  c #4C3010
+m  c #523310
+M  c #553913
+N  c #5C3B15
+B  c #583918
+V  c #633F15
+C  c #623E18
+Z  c #44352C
+A  c #553D23
+S  c #423730
+D  c #433C35
+F  c #4C3D34
+G  c #453F38
+H  c #4D3F3A
+J  c #664318
+K  c #6A4518
+L  c #6E491A
+P  c #674116
+I  c #704718
+U  c #754B1B
+Y  c #7B4E1D
+T  c #7A501D
+R  c #464236
+E  c #4C4136
+W  c #44423B
+Q  c #4C433B
+!  c #544336
+~  c #554638
+^  c #674726
+/  c #654B2E
+(  c #674B3D
+)  c #403F44
+_  c #434144
+`  c #4D4643
+'  c #4D4944
+]  c #4D474B
+[  c #464849
+{  c #4A4C4D
+}  c #524C45
+|  c #5D4C42
+ . c #524B49
+.. c #5A4D4C
+X. c #534649
+o. c #55514C
+O. c #5A544D
++. c #5D5042
+@. c #474B52
+#. c #504F55
+$. c #5D4F50
+%. c #4F5257
+&. c #5B5453
+*. c #5E5A54
+=. c #58575D
+-. c #545056
+;. c #634F47
+:. c #6C5443
+>. c #6A5A4E
+,. c #685449
+<. c #725D4E
+1. c #7B5E4B
+2. c #605956
+3. c #6B5D55
+4. c #605558
+5. c #725E53
+6. c #6E635E
+7. c #736355
+8. c #72625C
+9. c #575862
+0. c #595960
+q. c #6B676A
+w. c #616064
+e. c #726561
+r. c #766964
+t. c #786C68
+y. c #756C6B
+u. c #7F716D
+i. c #696B73
+p. c #6C707E
+a. c #777578
+s. c #805121
+d. c #84684D
+f. c #856857
+g. c #856B5C
+h. c #896E5B
+j. c #866657
+k. c #80706E
+l. c #88726E
+z. c #937464
+x. c #947A6A
+c. c #997B69
+v. c #827471
+b. c #877A73
+n. c #9F816F
+m. c #8F827B
+M. c #96807A
+N. c #A68169
+B. c #A98775
+V. c #A78878
+C. c #B98F70
+Z. c #B28D79
+A. c #B18972
+S. c #B9907D
+D. c #717685
+F. c #888386
+G. c #9E8F8E
+H. c #938688
+J. c #968F96
+K. c #AF9888
+L. c #BB9584
+P. c #999AA2
+I. c #A7A4AF
+U. c #BCB6B9
+Y. c #C69C87
+T. c #C89E89
+R. c #CAA58C
+E. c #D0A38D
+W. c #C5AA97
+Q. c #D1AC96
+!. c #C2B09F
+~. c #D4B09A
+^. c #E1AF99
+/. c #E4B69D
+(. c #C6B9A4
+). c #DEBBA4
+_. c #EABCA3
+`. c #E5BEA4
+'. c #D3C0A9
+]. c #F3CEB2
+[. c #F7D0B4
+{. c #F9DABE
+}. c #B6B7CC
+|. c #BEC3D6
+ X c #CDC8C6
+.X c #C3C9DD
+XX c #F8F0D8
+oX c #FF00DC
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX&.X.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX6.u.b.r.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXf 3.6.v.v.X.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXw } H ..t.} oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXc.[.K.K.XX(.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXx.S.E.`.Q.W.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXh.Z.Y.]./.R.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX! A.Z.(.^.d.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX2 < 1.c.R.C.V K oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX8 v 1 8 h.c.B C K N oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX= 1 1 < * & = c B M M 2 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX1 1 < * * < z n b z n n oXa.D.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX* 1 = < 2 z z n m M z l n p P.q.O.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX* = * = l c n m M B z x n ;.I.3.>.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX* * % = z m m n m M x < z | }.3.>.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX* & o * 1 x x x b n l * 1 *.|.8.3.H oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX- % % % = = = < 1 z x & * X..Xe.<.Q oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXc.j.Z o % = * = = = x x o Z v.|.r.7.Q oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX`.Y.f.oX& & * * * * 1 = ( z.V.}.t.7.~ oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX{._.f.oX% & & & * = = = F A.L.I.v.5.Q oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX:.<.oXG F.W.3.5 % % & * * * < < S T.L.H.H.3.H oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXF j.oXj ` _ oX7 - % * * * = 1 8 t &.) &.K.3.Q oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXh.oXk _ i * = p ` R Q E | 2.p * r r k x.r.H oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX:.E ) _ oX& = = - 6 7 u 7 1 & % - r k y.k.E oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX! ;._ j oX* & & * & * * < = % & % r h #.u.` oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXx.m.oXoXp % & * * * & = % % % u q h r e.` oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX'. XoXoX .D & & & & * & % % p ' oXg.oX$. .oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX).U.oXoXQ O.' D 6 3 * 3 3 u R Q oXoX~.X.' oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXE.W.oXoXW ' O.O.%.Q } u u t u D 3.B./.&.X.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX>.z.oXoXR } o.O.&.&.o.p u p R ' ;.L.B._ { oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX<.h.oXD Q } O.&.O.O.Q g R  .' oXx.oXs _ oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX~ x.oXG Q } o.O.O.*.' ` ' ' ' oXoXoXq s oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXN.oXW Q } ' ' &.*.` _ ' ' W oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXg.oXu i a t p R E g g g D g oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX| 8.oX, e e t t p g g W g oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX=.J.8.O O O + ; e 4 $ $ O oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXh P.a.O # O X oXoX# X X O oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX=.oX: : O X oXoX# . . O oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXO : : O oXoX# . X O oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX: # # O oXoXO X # : oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX# O : X oXoX# O > 4 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXO O : : X oXoXX O 4 9 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXX 1 0 : O oXoX. O > 9 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXo z N n . oXoX. O 8 0 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX* 1 1 b oXoXoXX z V M 3 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX& * < z 1 oXoX3 = 1 x 1 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXo & * 1 * oXoX= & = = < oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX- & & * 5 oXoXo & = < * oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX{ &.S  .0.oXoX; o % < Q oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX$ d @.#.oXoXoX) [ $.p.oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXo o % * oXoXoX+ q w 3 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX` t 3 4.oXoXoXi o o 7 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXg i.D.w.oXoXoXoX9.q.F.G oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX8 K U V oXoXoX* A / ^ 2 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX1 N K P oXoXoX& C L J = oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX1 B I J oXoXoX* J J J 2 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX2 J U U oXoXoX1 U L L l oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX1 J Y s.oXoXoXv T U L oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX* B K I oXoXoXn L L J oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX  = 2 2 oXoXoX& v v 2 oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX  oXoXoXoXoX  o oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX
+oXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoXoX

@@ -1,0 +1,16 @@
+<map id="spearman_act" name="spearman_act">
+<area shape="rect" id="node1" title="The spearman acts acording to action in PA." alt="" coords="5,56,108,83"/>
+<area shape="rect" id="node2" href="$d1/db8/player_8c.html#a05430863106de447d8a85bb9d840284f" title="The spearman attacks in its direction." alt="" coords="158,56,279,83"/>
+<area shape="rect" id="node4" href="$d1/db8/player_8c.html#a2e812fcd1282d5901ee15ee07434f73b" title="The spearman moves in direction." alt="" coords="159,5,278,32"/>
+<area shape="rect" id="node6" href="$d1/db8/player_8c.html#aa281b82564297b42eb7b3bf734650e36" title="The spearman uses its special ability." alt="" coords="156,107,281,133"/>
+<area shape="rect" id="node3" href="$d5/df6/entities_8c.html#a7458b099aabee51298042e2edde9e2d8" title="Modifies the HP of an Entity in position ( x , y ) by health_mod." alt="" coords="345,56,463,83"/>
+<area shape="rect" id="node5" href="$d5/df6/entities_8c.html#a525a3fe4f3a4d24d73ce258b817462d7" title="Moves an entity from position ( curr_x , curr_y ) to postition ( new_x, new_y )" alt="" coords="363,5,445,32"/>
+<area shape="rect" id="node7" href="$d4/dcc/rtc_8c.html#adb4289b2015a3ec052bae20542244311" title="Sets an alarm at current_time + delta_seconds." alt="" coords="329,107,479,133"/>
+<area shape="rect" id="node8" href="$d4/dcc/rtc_8c.html#a9a867345f9d2703ac913a6b8624f560c" title="Converts a number in BCD to binary." alt="" coords="527,31,629,57"/>
+<area shape="rect" id="node9" href="$d4/dcc/rtc_8c.html#a36f9a08f7379a6156dfbdd5da41a8668" title="Converts a number in binary to BCD." alt="" coords="527,81,629,108"/>
+<area shape="rect" id="node10" href="$d4/dcc/rtc_8c.html#a01efed7ef3d173bcbbeefbde025f38ac" title="Reads the time from the RTC." alt="" coords="527,132,629,159"/>
+<area shape="rect" id="node13" href="$d4/dcc/rtc_8c.html#ae91804ce10b51363ab8dcee2bb002c5e" title="Sets an alarm at hours : minutes : seconds." alt="" coords="527,183,629,209"/>
+<area shape="rect" id="node11" href="$d4/dcc/rtc_8c.html#abf6f23e3a37b625fce812ca09b3f35df" title="Reads the Register reg of the RTC." alt="" coords="679,132,800,159"/>
+<area shape="rect" id="node12" href="$d3/d91/utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Gets from port 8 bit information to value." alt="" coords="849,132,939,159"/>
+<area shape="rect" id="node14" href="$d4/dcc/rtc_8c.html#a9356a574f1893f56d0973dd06db6ed74" title="Writes to the Register reg of the RTC data." alt="" coords="677,183,801,209"/>
+</map>

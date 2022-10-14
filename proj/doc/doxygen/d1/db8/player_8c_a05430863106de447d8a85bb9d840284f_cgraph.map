@@ -1,0 +1,4 @@
+<map id="spearman_attack" name="spearman_attack">
+<area shape="rect" id="node1" title="The spearman attacks in its direction." alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node2" href="$d5/df6/entities_8c.html#a7458b099aabee51298042e2edde9e2d8" title="Modifies the HP of an Entity in position ( x , y ) by health_mod." alt="" coords="175,5,293,32"/>
+</map>

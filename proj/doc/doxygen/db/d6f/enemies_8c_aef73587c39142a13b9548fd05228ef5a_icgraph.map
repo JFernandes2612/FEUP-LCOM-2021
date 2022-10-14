@@ -1,0 +1,7 @@
+<map id="animate_green_blob_attack" name="animate_green_blob_attack">
+<area shape="rect" id="node1" title="Animates the green blobs attacking." alt="" coords="672,5,811,47"/>
+<area shape="rect" id="node2" href="$d6/d4f/enemies_8h.html#a8f86b7712a773166a6ae8c35799e7135" title="Animates the green blobs depending on their current action." alt="" coords="485,13,624,39"/>
+<area shape="rect" id="node3" href="$dd/d5a/entities_8h.html#aeae621c58e08b754e9c212bee6d0f477" title="Updates the animations of all Entities." alt="" coords="307,13,437,39"/>
+<area shape="rect" id="node4" href="$dd/d65/game__helper_8h.html#ac2e814f8670e374692b399122563067d" title="Performs all game logic and displaying that occurs every frame depending on the game state." alt="" coords="164,13,259,39"/>
+<area shape="rect" id="node5" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,13,116,39"/>
+</map>

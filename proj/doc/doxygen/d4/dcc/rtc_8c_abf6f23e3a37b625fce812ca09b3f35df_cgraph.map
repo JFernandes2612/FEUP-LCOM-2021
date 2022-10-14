@@ -1,0 +1,4 @@
+<map id="rtc_read_register" name="rtc_read_register">
+<area shape="rect" id="node1" title="Reads the Register reg of the RTC." alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node2" href="$d3/d91/utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Gets from port 8 bit information to value." alt="" coords="175,5,264,32"/>
+</map>

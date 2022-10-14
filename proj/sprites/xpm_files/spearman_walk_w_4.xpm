@@ -1,0 +1,260 @@
+64 64 195 2 
+   c #0D0908
+.  c #130C08
+X  c #1A0F08
+o  c #0E1009
+O  c #13140A
++  c #1C1209
+@  c #11180B
+#  c #1A1B0D
+$  c #131911
+%  c #191C10
+&  c #231509
+*  c #241A09
+=  c #2C1C0A
+-  c #341F0B
+;  c #2A1E11
+:  c #201A18
+>  c #1A2212
+,  c #2D200E
+<  c #34220B
+1  c #3B250C
+2  c #3D280E
+3  c #2E2313
+4  c #25221F
+5  c #372917
+6  c #27301A
+7  c #2B341D
+8  c #30371D
+9  c #242325
+0  c #27262B
+q  c #2E2B2B
+w  c #2D2927
+e  c #342C2A
+r  c #392E2B
+t  c #3B322D
+y  c #303A21
+u  c #2D2E33
+i  c #302F34
+p  c #2F3134
+a  c #353435
+s  c #3E3532
+d  c #343439
+f  c #3B3738
+g  c #3A393B
+h  c #3B3838
+j  c #432A0E
+k  c #41250D
+l  c #442B10
+z  c #4B2D11
+x  c #4E3110
+c  c #4B381A
+v  c #533211
+b  c #5C3B15
+n  c #5E3B18
+m  c #5A3515
+M  c #633C15
+N  c #623A18
+B  c #43352B
+V  c #44392D
+C  c #4B3A2E
+Z  c #433632
+A  c #453A33
+S  c #4B3C34
+D  c #433B3A
+F  c #4B3F3B
+G  c #394525
+H  c #654218
+J  c #6B4418
+K  c #654017
+L  c #724B18
+P  c #72471C
+I  c #404F2C
+U  c #44532C
+Y  c #4E4135
+T  c #4E433B
+R  c #52453C
+E  c #554A3E
+W  c #5C4D3F
+Q  c #435231
+!  c #495E33
+~  c #475931
+^  c #714920
+/  c #60582D
+(  c #775124
+)  c #65523F
+_  c #72543B
+`  c #4D6439
+'  c #3B3B42
+]  c #353740
+[  c #433F43
+{  c #483F42
+}  c #3B4045
+|  c #464244
+ . c #4D4544
+.. c #46444A
+X. c #534542
+o. c #554A43
+O. c #5B4D44
++. c #544A49
+@. c #5A4F4A
+#. c #5E5145
+$. c #5E524C
+%. c #535154
+&. c #5B5A59
+*. c #614F48
+=. c #615347
+-. c #65554B
+;. c #6A574C
+:. c #65584D
+>. c #6A5A4D
+,. c #735B4E
+<. c #795942
+1. c #665B53
+2. c #6C5C51
+3. c #6A5D5B
+4. c #655956
+5. c #715E53
+6. c #75634D
+7. c #6F615E
+8. c #736155
+9. c #7A6556
+0. c #766459
+q. c #7A6659
+w. c #7C695C
+e. c #796A56
+r. c #5D5C61
+t. c #665F61
+y. c #64626A
+u. c #6C6463
+i. c #756964
+p. c #7D6D63
+a. c #746564
+s. c #79726F
+d. c #6B6A73
+f. c #716D75
+g. c #716E78
+h. c #777379
+j. c #816D5D
+k. c #8C6C5A
+l. c #94745E
+z. c #876E61
+x. c #857162
+c. c #8B7363
+v. c #82736C
+b. c #8B7569
+n. c #8F796B
+m. c #927A66
+M. c #947B6A
+N. c #9C7F6B
+B. c #997763
+V. c #827371
+C. c #807879
+Z. c #907E76
+A. c #A27A66
+S. c #9C806B
+D. c #8E817C
+F. c #988478
+G. c #A6846D
+H. c #A58673
+J. c #AA8A76
+K. c #A68973
+L. c #B89276
+P. c #797B84
+I. c #7D7F8E
+U. c #777B8A
+Y. c #7F8491
+T. c #82828D
+R. c #8F868B
+E. c #938985
+W. c #948E8F
+Q. c #838794
+!. c #8C8C98
+~. c #92939E
+^. c #9B969E
+/. c #9F989E
+(. c #AC9E94
+). c #BA9C91
+_. c #B19587
+`. c #8F92A3
+'. c #9B9FA9
+]. c #9B9FB0
+[. c #A69FA6
+{. c #9EA4B7
+}. c #A9ADBB
+|. c #A2ABBC
+ X c #B6AEB8
+.X c #CC9A82
+XX c #CDA08A
+oX c #D4A087
+OX c #E6BFA3
++X c #DAC5B6
+@X c #F9D1B1
+#X c #A8AEC2
+$X c #AAB1C9
+%X c #B0B0C0
+&X c #FF00DC
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X$.i.V.3.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xs i.v.V.u.$.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X2.3.a.a.$.@.X.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X_.0.@.+.{ { o.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&XJ.XXZ t Z D Z &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xc..XZ *.t e 4 &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xw.A.k.L.R w &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X,.,.,.k.l.e c &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X5.A.oXL.P b &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X= v b M J b v &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X& < x b J J K z &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X- < x H J L H l &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X& < < l b K M M z , &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X= 1 < 2 m n N N 2 = &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X* 2 = j m N N j = 6.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X= < = k x m m 1 <.@X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&XI.Q.!.[. X%X&.= = l z x z - B.OX&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&XU.I.u.3.p.E.'.$X}.u.l j x l 5 b.f.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xg.h.p.>.;.=.5.S.F.`.|.}.2.k < 3 0 ' &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xt.f.8.q.q.e.5.-.-.w.n.D.!.{.^.S 5 9 ] &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X%.t.4.o.;.z.z.j.2.8.;.#.M.v.s.Q.].C.D p &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X4.4.:.2.=.O.9.m.b.5.;.O.E 0.b.p.P.`.[.z.+X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&XB.B.S.S.S.M.M.N.m.9.
+&X&X&X&X&X&X&X&X&X&X&X&X&XX.:.=.1.:.;.w.1.2.j.m.c.1.E W -.j.n.s.Q.~.c.J.J.H.H.H.G.N.N.M.M.M.M.c.c.j.w.8.5.-.o.E R R Y A A A V &X
+&X&X&X&X/. XR.&X&X&X&XS.K.o.*.4.O.:.;.=.0.5.>.j.c.m.w.;.O.#.5.c.Z.Y.^.-.S A V t t r &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+9 d y.E._.).F.q.5.;.-.*.o.{ X.E :.#.o.-.>.E 2.:.2.x.M.c.0.=.-.0.;.v.I.!.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&Xq e f d &X&X&X&X&X&XX.A o.O.O.#.R O.o.-.O.>.=.w.N.M.w.=.O.=.;.p.I.P.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&XF C B T O.T O.Y R @.#.-.>.8.8.x.M.x.e.o.E o.$.T.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&XX.B B V R O.Y R R O.-.;.>.8.8.8.c.M.w.=.1.8.i.T.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&XX.C B B A o.R E O.#.-.-.>.5.8.8.q.x.8.;.9.5.f.h.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xe +.F B C S X.#.Y R E #.:.=.:.8.8.8.8.>.>.;.p.U.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X| E B r B Y >.E A R -.5.3.=.0.9.>.>.2.9.e.d.g.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xg +.S t B S =.>.S A o.:.:.:.8.e.-.O.W ,.d.h.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X{ T A C S Y 5.-.F X.=.>.-.-.1.8.-.-.4.d.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X> d ..T C C B o.,.O.o.o.,.8.>.8.8.-.&.r.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X> > > u | R S B t W -.R o.:.8.>.;.2.%.%.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X> % @ @ % u ' [ A V R O.R o.-.2.2. . .h &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X% % @ @ &X&X: w p a f  .o.+.+.| D D e &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X% % @ % &X&X&X@ $   # > &X&X0 0 &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X: @ @ @ % @ &X&X@ $ o @ &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X1 > @ @ $ O &X&X$ @ @ @ &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X- @ @ o @ # &X&X$ @ @ # G &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X& * @ @ @ % &X&X# @ @ > G U &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X= @ @ @ 3 &X&X&X$ $ > 8 I U y &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X= , , < < &X&X&X&X@ # 6 G U ! ~ &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&XX + + & ; &X&X&X&X&X@ > y Q ! ` / &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xq & # r | &X&X&X&X&X, * # 6 G ! ( ^ &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xg d q ; &X&X&X&X&X&X& 1 # 6 c M M (.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&XO O + & &X&X&X&X&X&X&X. < 2 1 j ) #X_ &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xe + & T h &X&X&X&X&X&X&X&X. + ; y.t.N H e.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xj s ' ' a < &X&X&X&X&X&X&X&X&X&Xq a 3 j m /.W.&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X2 l 1 < = * = < &X&X&X&X&X&X&X&X&X&X&X&X. * C !.<.L b &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X< v x 1 * * & & = * &X&X&X&X&X&X&X&X&X&X&X&X&X9 | T b n n 2 &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&Xk j 1 & + O . + + X &X&X&X&X&X&X&X&X&X&X&X&X&X< < < 2 j l < &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X+ + & . .       &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X< < * * = < &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X, 2 2 = * X . X &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X= l < = & X &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X+ * * & . &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X. . &X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X
+&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X&X

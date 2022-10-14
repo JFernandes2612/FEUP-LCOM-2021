@@ -1,0 +1,8 @@
+<map id="player.h" name="player.h">
+<area shape="rect" id="node1" title=" " alt="" coords="161,5,230,32"/>
+<area shape="rect" id="node2" href="$entities_8c.html" title=" " alt="" coords="5,80,79,107"/>
+<area shape="rect" id="node3" href="$graphics_8c.html" title=" " alt="" coords="106,155,186,181"/>
+<area shape="rect" id="node4" href="$graphics_8h.html" title=" " alt="" coords="155,80,236,107"/>
+<area shape="rect" id="node5" href="$_l_c_o_m_8c.html" title=" " alt="" coords="225,155,291,181"/>
+<area shape="rect" id="node6" href="$player_8c.html" title=" " alt="" coords="312,80,380,107"/>
+</map>

@@ -1,0 +1,259 @@
+64 64 193 2 
+   c #150D08
+.  c #1B0F08
+X  c #0F160F
+o  c #0F1808
+O  c #12140A
++  c #1D1208
+@  c #141B0C
+#  c #1B1E0D
+$  c #161B10
+%  c #191C12
+&  c #1E1917
+*  c #221508
+=  c #251909
+-  c #2B1A09
+;  c #321E09
+:  c #2C1D11
+>  c #221F1B
+,  c #271B11
+<  c #192010
+1  c #1F2915
+2  c #2D200E
+3  c #34210A
+4  c #3B240C
+5  c #3E290E
+6  c #2C2012
+7  c #2D241C
+8  c #242E18
+9  c #27201A
+0  c #3A2410
+q  c #332B12
+w  c #3D2912
+e  c #31261C
+r  c #35291D
+t  c #36291A
+y  c #26331B
+u  c #283119
+i  c #323419
+p  c #2A2621
+a  c #2B2A2B
+s  c #272626
+d  c #332C24
+f  c #382D26
+g  c #353025
+h  c #3A3226
+j  c #3C342C
+k  c #3E392D
+l  c #312C31
+z  c #343334
+x  c #383533
+c  c #3B3931
+v  c #38373A
+b  c #3D3A3C
+n  c #41270E
+m  c #432B0F
+M  c #492D0F
+N  c #412710
+B  c #452B10
+V  c #4A2E10
+C  c #402E1D
+Z  c #4C3110
+A  c #4A341B
+S  c #4A351A
+D  c #533412
+F  c #593713
+G  c #5C3B15
+H  c #563812
+J  c #633F16
+K  c #452F22
+L  c #47382D
+P  c #433C34
+I  c #483D35
+U  c #423E3C
+Y  c #5F4117
+T  c #634116
+R  c #6B4517
+E  c #644318
+W  c #6B4418
+Q  c #6E4818
+!  c #704519
+~  c #734A19
+^  c #784D1B
+/  c #704617
+(  c #45423C
+)  c #4B443D
+_  c #464435
+`  c #52453C
+'  c #54483E
+]  c #5C473B
+[  c #63482D
+{  c #7C4F20
+}  c #624A33
+|  c #634D3D
+ . c #665036
+.. c #3E3E41
+X. c #423F42
+o. c #444246
+O. c #4A4442
++. c #4D4A44
+@. c #47464A
+#. c #4B4749
+$. c #4D494C
+%. c #46494F
+&. c #534B45
+*. c #534C4B
+=. c #5D4F4E
+-. c #594B43
+;. c #55524B
+:. c #5A544E
+>. c #494F55
+,. c #5B5452
+<. c #5D5953
+1. c #5E5B5F
+2. c #664E43
+3. c #6E5D4E
+4. c #68564B
+5. c #725C4C
+6. c #705641
+7. c #6C5C53
+8. c #6B5E59
+9. c #675D54
+0. c #745F53
+q. c #706053
+w. c #72625A
+e. c #7B6251
+r. c #565861
+t. c #6C6462
+y. c #636161
+u. c #786767
+i. c #766A64
+p. c #7C6D6B
+a. c #746867
+s. c #6E6C71
+d. c #756F76
+f. c #7E7373
+g. c #7A767B
+h. c #71717C
+j. c #805120
+k. c #866A5B
+l. c #896A5A
+z. c #846858
+x. c #906F5E
+c. c #997353
+v. c #846C60
+b. c #8B7061
+n. c #84736D
+m. c #9A7564
+M. c #987966
+N. c #847572
+B. c #897A76
+V. c #927D73
+C. c #A37E6C
+Z. c #9B8578
+A. c #A1846F
+S. c #A98977
+D. c #B7927F
+F. c #7A7D86
+G. c #797D8C
+H. c #81838C
+J. c #928384
+K. c #95878A
+L. c #9F928F
+P. c #8B8F98
+I. c #94939A
+U. c #A38D85
+Y. c #A69A8C
+T. c #B69582
+R. c #B39388
+E. c #BDAB9F
+W. c #A39EA9
+Q. c #ACACBA
+!. c #B0B0BF
+~. c #C29985
+^. c #C79984
+/. c #C6A28C
+(. c #D6A384
+). c #C5A490
+_. c #D2AC95
+`. c #D2A791
+'. c #D8B29A
+]. c #E4B69B
+[. c #E2B89F
+{. c #DCBAA5
+}. c #E3B9A0
+|. c #ECC4A9
+ X c #F1C2A7
+.X c #E4CDBB
+XX c #EACBB3
+oX c #ECD5BB
+OX c #ACAEC0
++X c #B6B8C7
+@X c #DED8C5
+#X c #E3D4C3
+$X c #FF00DC
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X4.p.B.N.=.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X:.a.p.N.u.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$Xp ) &.=.8.i.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X-.~.Z.q.Y.#X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$Xv./.].|.XXoX$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$XS.D.}._.|.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$XC.~..X[.].$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X3 w  .l.S.T.c.G $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X4 B B S m.^.(.G W W $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X; 4 B 0 3 t [ S H Y G F $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X; 4 3 - - = - M D S Z D m $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X0 ; 3 3 4 5 Z Z M Z m M B $XP.h.$.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X- 4 ; ; n M Z D H H H V B V t.I.9.7.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X- ; = - n M D V D H F ; m M i.W.4.4.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X- - * - 5 M M B V D M 3 4 m f.Q.7.4.O.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X- = + - ; n 4 n n V V ; - ; g.!.q.3.` $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$XK * + = ; 3 ; 3 ; N B ; - ; d.+X8.7.` $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$XS.m.]   * - - - ; ; 4 n ; f | J.+Xw.q.' $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X|.`.l.$X* = - = - = ; ; ; l.C.U.!.i.0.-.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$XB..X Xx.$X* * = = - - ; ; - z.T.R.W.p.5.` $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X5.$X$X#.p.U.7.7 * * = - - = ; 3 7 0.T.V.K.J.3.` $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X2.z.$XU O.X.$Xt t * - - - ; 4 4 L f #.U t.L.w.` $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$Xz.$Xb X.x - ; L U I P P L ] =.e - a a $.Z.i.` $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X5.P X.X.$X- 3 ; - 7 g h K w 3 = = 7 a U f.N.` $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X| &.o.X.$X= = - - - - - 3 3 - = = = a v r.f.I $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$XL Z.t.$X$Xj * = = = - = - 3 * + * g a z l t.*.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X#X$X$X$X+.P , + = = - - * + , _ O.$Xb.$X=.*.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X.X$X$X$X) ;.&.P r 6 2 2 2 7 P _ P $X'.).#.*.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X{.E.$X$X_ &.;.,.+.( _ L g g h k P $X'.'.,.*.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$Xb.A.$X$XI +.;.;.,.:.;._ g h h I ( b.~.~.*.$.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$Xl.$X$XP +.;.;.,.,.:.&.c c ) $.( $XS.$Xv @.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$Xe.M.$XP ( +.;.,.,.4.*.O.( $.+.( $X$X$Xs ..$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X] A.$X( ) &.;.&.,.<.,.( O.+.+.( $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$Xz.$Xx c c k c ) *.O.c c ( ( c $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X6.b.1 d g d d f k j j c P _ $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X*.J.$X% % > p d x P j z a % $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X..I.N.% $ @ O $X& $ @   @ o $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$Xs H.g.@ < @ @ $X$X@ @ O X @ $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X@ < % @ $X$XO @ o @ o $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$ % < @ $X$XX @ O < $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X< % $ # $X$XX $ O 1 $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X< < < @ $X$XX $ $ 8 8 $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$XO < < < $X$X$X@ < u y $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X@ w H q $ $X$X$Xo @ u u $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X= n Z F # $X$X$X@ q S i $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X- ; 4 N 2 $X$X$X- D F V $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X= - ; 4 B $X$X$X2 - n m 4 $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X+ - - ; ; $X$X$X- - ; 0 2 $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X: * - - 0 $X$X$X= = 3 ; - $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$.$.x L y.$X$X$X. + - K P $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X& v >.r.b $X$X$X@.U y.s.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X+ + * = $X$X$X$X& a a - $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$XX.p - I $X$X$X$X9   * L $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$Xb F.H.G.$X$X$X$X%.$.t.H.$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X4 [ | [ 2 $X$X$Xt ;.q.} 0 $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X3 J Q Q ; $X$X$X5 Q / G 3 $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X2 G W Q ; $X$X$XB Q W G $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X3 J ! ^ B $X$X$XG ^ Q T $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X0 E ^ j.G $X$X$XE ^ Q E $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X6 Y Q ^ J $X$X$XW ^ Q G $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X* M G G V $X$XO D E E V $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X. = = $X$X$X$X= - - $X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X$X
+};

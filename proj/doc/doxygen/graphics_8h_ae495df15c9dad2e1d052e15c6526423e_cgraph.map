@@ -1,0 +1,5 @@
+<map id="create_background" name="create_background">
+<area shape="rect" id="node1" title="Paints the background." alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node2" href="$graphics_8c.html#a6386a61a54c277c05a7ab9d5737edcd8" title="Paints a XPM file in the screen at coordinates ( start_x , start_y )" alt="" coords="185,5,268,32"/>
+<area shape="rect" id="node3" href="$graphics_8c.html#ac8c3ed74f805c5bccd091d94f5d72242" title="Paints a pixel in coordinates ( x , y ) with colour." alt="" coords="316,5,400,32"/>
+</map>

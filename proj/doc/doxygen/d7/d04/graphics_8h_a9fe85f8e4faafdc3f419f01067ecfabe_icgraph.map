@@ -1,0 +1,16 @@
+<map id="paint_xpm" name="paint_xpm">
+<area shape="rect" id="node1" title="Paints a XPM file in the screen at coordinates ( start_x , start_y )" alt="" coords="980,204,1063,230"/>
+<area shape="rect" id="node2" href="$d3/d62/player_8h.html#a909f31d95b754c4e0200dab6f3246d41" title="Animates the spearman&#39;s special attack." alt="" coords="753,77,932,104"/>
+<area shape="rect" id="node5" href="$dd/d65/game__helper_8h.html#ac2e814f8670e374692b399122563067d" title="Performs all game logic and displaying that occurs every frame depending on the game state." alt="" coords="190,204,285,230"/>
+<area shape="rect" id="node7" href="$d7/d04/graphics_8h.html#ae495df15c9dad2e1d052e15c6526423e" title="Generates a new background (including UI background)" alt="" coords="359,26,491,53"/>
+<area shape="rect" id="node10" href="$d7/d04/graphics_8h.html#a9bd4de8619e4f311211cf1a97aee2464" title="Prints the lateral walls of the game board." alt="" coords="539,280,705,322"/>
+<area shape="rect" id="node11" href="$d7/d04/graphics_8h.html#a9aa917ce9e83c51b0b3d230345c4cefd" title="Paints the Cursor." alt="" coords="378,342,471,369"/>
+<area shape="rect" id="node12" href="$d7/d04/graphics_8h.html#ab65f3f5dea52f13a56190f2bdaef5d63" title="Paints the entities of the game (playes, monsters, etc)" alt="" coords="803,397,882,424"/>
+<area shape="rect" id="node13" href="$d7/d04/graphics_8h.html#ace731048796b4c75099bc7fa87d00908" title="Paints in the screen s." alt="" coords="803,178,882,205"/>
+<area shape="rect" id="node14" href="$d7/d04/graphics_8h.html#a3fc4a889f36484e2d8a9624cac61df58" title="Paints the UI elements to the screen." alt="" coords="587,128,657,154"/>
+<area shape="rect" id="node3" href="$d3/d62/player_8h.html#a21201934ad44d6ccf7beb9ae2278dda7" title="Animates the spearman according to its action." alt="" coords="556,77,688,104"/>
+<area shape="rect" id="node4" href="$dd/d5a/entities_8h.html#aeae621c58e08b754e9c212bee6d0f477" title="Updates the animations of all Entities." alt="" coords="359,77,490,104"/>
+<area shape="rect" id="node6" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,77,116,104"/>
+<area shape="rect" id="node8" href="$dd/d65/game__helper_8h.html#a72c30bee155342f972c892a5a8d4a175" title="Processes the input that comes from the mouse and executes the associated logic." alt="" coords="164,77,311,104"/>
+<area shape="rect" id="node9" href="$dd/d65/game__helper_8h.html#a03d9f7e90ecc6a670f43c0510bf272c0" title="Processes the incoming packet from the UART (COM1) and executes the associated logic." alt="" coords="167,26,308,53"/>
+</map>

@@ -1,0 +1,8 @@
+proj
+.vscode
+.clang-format
+*.o
+.gdbinit
+*.txt
+*.d
+.depend

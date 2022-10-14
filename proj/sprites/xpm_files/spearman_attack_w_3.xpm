@@ -1,0 +1,265 @@
+68 64 200 2 
+   c #0D0808
+.  c #150E08
+X  c #1A0F08
+o  c #0F170A
+O  c #13140B
++  c #1D1308
+@  c #141A0D
+#  c #1A1B12
+$  c #161E10
+%  c #221508
+&  c #281709
+*  c #261909
+=  c #2B1A08
+-  c #321E09
+;  c #2B1D14
+:  c #221C13
+>  c #1A2211
+,  c #1D2915
+<  c #342109
+1  c #3A240C
+2  c #3D280D
+3  c #212412
+4  c #222915
+5  c #23251C
+6  c #242C18
+7  c #2C2618
+8  c #3F2611
+9  c #3C2910
+0  c #342615
+q  c #2B341C
+w  c #2F3B1E
+e  c #26301A
+r  c #33361C
+t  c #3C3315
+y  c #262527
+u  c #2C2B26
+i  c #2D2B2B
+p  c #342D2C
+a  c #382C24
+s  c #313B22
+d  c #34312B
+f  c #3C342D
+g  c #332F31
+h  c #353134
+j  c #3A3535
+k  c #3C3934
+l  c #393639
+z  c #3B393B
+x  c #35353B
+c  c #40260C
+v  c #432B0E
+b  c #50300C
+n  c #442B10
+m  c #4B2E11
+M  c #422610
+N  c #4D3210
+B  c #473518
+V  c #543412
+C  c #543813
+Z  c #5B3914
+A  c #5C3B18
+S  c #5A3713
+D  c #643E15
+F  c #633D18
+G  c #693F17
+H  c #432F20
+J  c #43352D
+K  c #433A2E
+L  c #453425
+P  c #413632
+I  c #463B34
+U  c #4B3D34
+Y  c #453D3B
+T  c #4C3F3B
+R  c #334426
+E  c #5F4018
+W  c #674016
+Q  c #634118
+!  c #6B441A
+~  c #6A4517
+^  c #724618
+/  c #724918
+(  c #7C4A1C
+)  c #4B4421
+_  c #4C4236
+`  c #45413B
+'  c #4D433A
+]  c #474035
+[  c #524235
+{  c #52453C
+}  c #544A3D
+|  c #58493E
+ . c #634720
+.. c #7E5829
+X. c #614D3E
+o. c #444241
+O. c #4C4542
++. c #4C4A4C
+@. c #494746
+#. c #534740
+$. c #554A42
+%. c #5A4D43
+&. c #534C49
+*. c #5D4F4D
+=. c #5D5045
+-. c #5D544C
+;. c #59554E
+:. c #4D4E52
+>. c #434851
+,. c #504F54
+<. c #5C5552
+1. c #5E5953
+2. c #5C5A5C
+3. c #535358
+4. c #634E43
+5. c #635246
+6. c #64544A
+7. c #6B5A4D
+8. c #68584A
+9. c #715B4D
+0. c #655652
+q. c #625A55
+w. c #6C5D55
+e. c #645C5B
+r. c #6C5F5C
+t. c #65625A
+y. c #6B635C
+u. c #6E6153
+i. c #756454
+p. c #7B6252
+a. c #70665F
+s. c #5A5C64
+d. c #575962
+f. c #5F626C
+g. c #626265
+h. c #6C6762
+j. c #6E6A64
+k. c #66656F
+l. c #716562
+z. c #736A64
+x. c #736C69
+c. c #7D6D68
+v. c #7C746D
+b. c #73716B
+n. c #6B6C74
+m. c #696E7E
+M. c #716E74
+N. c #706F79
+B. c #7B7674
+V. c #72747E
+C. c #7D797D
+Z. c #814B21
+A. c #916E4F
+S. c #86695C
+D. c #8A6C5C
+F. c #876A57
+G. c #8E7054
+H. c #91735E
+J. c #99785F
+K. c #857168
+L. c #967665
+P. c #9A7762
+I. c #9D7C66
+U. c #9E7E6E
+Y. c #837671
+T. c #877F76
+R. c #A17E6A
+E. c #A07D67
+W. c #9C806A
+Q. c #8A8079
+!. c #A2826B
+~. c #A9846D
+^. c #A58972
+/. c #BB907C
+(. c #797B87
+). c #847C82
+_. c #8F868E
+`. c #9C9289
+'. c #868895
+]. c #978D90
+[. c #989398
+{. c #948683
+}. c #A39696
+|. c #B39E9C
+ X c #BDA28D
+.X c #B7AB9F
+XX c #9397A6
+oX c #B5AFAF
+OX c #C29D87
++X c #C5B1A2
+@X c #E4D0B8
+#X c #F4D1B5
+$X c #B6B5C2
+%X c #CFCCCD
+&X c #D3D1D7
+*X c #E1DDDD
+=X c #F2ECE4
+-X c #F3EEF1
+;X c #FAF6F9
+:X c #FF00DC
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X0.c.Y.w.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:XY l.Y.Y.r.0.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:Xh k.[.x.&.h.].:X:X:X:X:X:X0.e.l.r.*.=.T :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:Xo.P U %.z.}.L.I.P.P.:XOXw.&.#.T O.O.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:XP L T %.<.C.{.J U | !.U./.f g f P P :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:XP I #.#.} h.[.:X:X:X:XL.R.p S.g p | I.!.!.!.R.D.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:Xl f I } #.$.%.V.|.:X:X:Xp.S.F./.p p :X:X:X:XU | 8.D.I.!.I.oX%X%X-XoX:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:XP J T { %.#.5.s.}.:X:X:X:X:Xp.P.{ f :X:XV W D G D F A i.*X;XoX(.`.^.L.U.!.W.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:XJ I U U %.=.5.} (._.:X:X:X:XA.#X@XH.A ! ^ / ( ( ( / ^ ! =X;X=X>.:X:X:XK _ X.9.H.!.^.~.~.I.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:Xj a I I } %.7.%.{ M.XX:X:X:Xv V  .Z./ / ~ ^ / ( Z.Z.G D N  X+XK.:X:X:X:X:X:X:X:X:X:X:XJ [ 4.p.L.E.R.~.R.L.:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:Xf a I I } } 9.} | ).'.:Xv D D Z F W Q ! ^ ^ ^ ^ G m - & % :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:XJ [ 5.p.H.H.H.H.H.:X:X:X:X:X
+:X:X:X:XP U U { $.6.5.' 6._.N.c V S Q D A Q Q D A D F V 1 :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:Xf J { 4.p.D.p.:X
+:X:X:Xh J [ ' U %.9.%._ x.'.0.m N N Z S S A A A V V m & :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:Xj I I { } %.w.{ 4.M.'.J c 2 2 v N N N N m n M & :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:XJ } P $.{ 7.8.I 6.M.(.- = = = = < 1 n n 1 1 = :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:XJ U T { 5.7.{ I r.(.g.% + . % + % * < < < = :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:Xp K K } | 7.u.U =.e.(.j . :X% < = * * - < = * :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:Xp { ' } %.u.7.` 6.k.n.:X:X:X% - = & & < < = * :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:Xd ' #.} 5.7.' T 7.s.2.:X:X:X% = & = * < - < = :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:XU U ' %.6.7.' %.e.s.:X:X:X:X+ * & & - 1 2 < :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:XU [ #.=.8.-.T 6.s.3.:X:X:X:X% * = = = 1 v M :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:XI %.%.=.8.I } e.3.z :X:X:X:X; * = = - c v y.H :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:Xp ' %.%.%.| P } d.+.:X:X:X:X:Xk 0 = = = < 6.X.m :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:Xh %.%.O.4.%.I <.:.:X:X:X:X:X:X% k &.&.;.1.X.V b :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:Xi %.%._ | *.' :.z :X:X:X:X:X:X+ < M V Z Z E E N 2 :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:Xp $.$.U %.%.:.l :X:X:X:X:X:X:X+ - 9 m C A Q E C N :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:Xi ' } } 5.:.l :X:X:X:X:X:X:X:X. * < v N C E A Z Z :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:Xl o.&.>.g :X:X:X:X:X:X:X:X:X7 + = 1 n N C C A E :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:Xy x x y :X:X:X:X:X:X:X:X:X:Xu a ; < 1 N N E E A :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:Xd d O.1.1.-.-.u.u.=.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:Xk f ] q.j.a.v.Q.Q.t.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:XY ` ] -.y.y.b.B.v.y.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:Xk O.$.1.t.q.j.v.v.t.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:Xd O.&.q.t.q.a.b.y._ :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:Xd O.&.e.1.-.h.j.;.k :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:XR o.;.<.1.t.<.d :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:Xp Y @.' &.&.f :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X$ y u u 5 > :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:XO @ $ O > 6 w :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:Xo @ $ > , 6 s :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:XO $ > > $ , q :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X@ > > 3 3 4 6 :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X$ > 6 q 6 4 :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X> 4 q w q 6 :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X@ , q s q e 7 :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X0 , e w w B N :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:XV > , w R 2 0 :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X- 9 3 w R } :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X& M , r R f :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X+ 1 t r ) m :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:XX % - c c [ :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:Xh % % = %.x.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X% v B @.o.3.s.L :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:Xn V M 1 ; # : < c :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:Xv N v = + 3 + * - %.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X* = * + * ' O.T B.n.:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X. + 2 C A O.@.$. .:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:Xv W E C N N n v V S 1 :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:Xv A A V n < = = < 1 :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X= 1 c < = % + + = % :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X. . + . .     :X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X
+:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X:X

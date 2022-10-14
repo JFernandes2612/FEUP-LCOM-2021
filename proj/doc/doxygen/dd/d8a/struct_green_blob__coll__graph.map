@@ -1,0 +1,4 @@
+<map id="GreenBlob" name="GreenBlob">
+<area shape="rect" id="node1" title="Enemy green blob (green slime) structure." alt="" coords="5,95,88,121"/>
+<area shape="rect" id="node2" href="$d7/df7/struct_grid_image.html" title="Create a sprite whose drawing is done with offsets related to the grid postition." alt="" coords="5,5,88,32"/>
+</map>

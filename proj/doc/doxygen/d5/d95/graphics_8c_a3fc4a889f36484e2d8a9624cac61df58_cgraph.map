@@ -1,0 +1,6 @@
+<map id="paint_UI" name="paint_UI">
+<area shape="rect" id="node1" title="Paints the UI elements to the screen." alt="" coords="5,31,76,57"/>
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#ace731048796b4c75099bc7fa87d00908" title="Paints in the screen s." alt="" coords="124,5,203,32"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#a6386a61a54c277c05a7ab9d5737edcd8" title="Paints a XPM file in the screen at coordinates ( start_x , start_y )" alt="" coords="251,31,333,57"/>
+<area shape="rect" id="node4" href="$d5/d95/graphics_8c.html#ac8c3ed74f805c5bccd091d94f5d72242" title="Paints a pixel in coordinates ( x , y ) with colour." alt="" coords="381,31,465,57"/>
+</map>

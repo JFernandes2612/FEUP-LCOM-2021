@@ -1,0 +1,10 @@
+<map id="rtc_set_alarm_delta_s" name="rtc_set_alarm_delta_s">
+<area shape="rect" id="node1" title="Sets an alarm at current_time + delta_seconds." alt="" coords="5,81,155,108"/>
+<area shape="rect" id="node2" href="$d4/dcc/rtc_8c.html#a9a867345f9d2703ac913a6b8624f560c" title="Converts a number in BCD to binary." alt="" coords="203,5,305,32"/>
+<area shape="rect" id="node3" href="$d4/dcc/rtc_8c.html#a36f9a08f7379a6156dfbdd5da41a8668" title="Converts a number in binary to BCD." alt="" coords="203,56,305,83"/>
+<area shape="rect" id="node4" href="$d4/dcc/rtc_8c.html#a01efed7ef3d173bcbbeefbde025f38ac" title="Reads the time from the RTC." alt="" coords="203,107,305,133"/>
+<area shape="rect" id="node7" href="$d4/dcc/rtc_8c.html#ae91804ce10b51363ab8dcee2bb002c5e" title="Sets an alarm at hours : minutes : seconds." alt="" coords="203,157,305,184"/>
+<area shape="rect" id="node5" href="$d4/dcc/rtc_8c.html#abf6f23e3a37b625fce812ca09b3f35df" title="Reads the Register reg of the RTC." alt="" coords="355,107,476,133"/>
+<area shape="rect" id="node6" href="$d3/d91/utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Gets from port 8 bit information to value." alt="" coords="525,107,615,133"/>
+<area shape="rect" id="node8" href="$d4/dcc/rtc_8c.html#a9356a574f1893f56d0973dd06db6ed74" title="Writes to the Register reg of the RTC data." alt="" coords="353,157,477,184"/>
+</map>

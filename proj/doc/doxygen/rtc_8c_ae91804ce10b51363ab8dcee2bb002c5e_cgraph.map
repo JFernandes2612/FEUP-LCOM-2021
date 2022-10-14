@@ -1,0 +1,4 @@
+<map id="rtc_set_alarm" name="rtc_set_alarm">
+<area shape="rect" id="node1" title="Sets an alarm at hours : minutes : seconds." alt="" coords="5,5,107,32"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#a9356a574f1893f56d0973dd06db6ed74" title="Writes to the Register reg of the RTC data." alt="" coords="155,5,279,32"/>
+</map>

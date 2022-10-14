@@ -1,0 +1,6 @@
+<map id="grid_enemies_move" name="grid_enemies_move">
+<area shape="rect" id="node1" title="Moves every enemy in the grid." alt="" coords="5,31,144,57"/>
+<area shape="rect" id="node2" href="$enemies_8c.html#aa5b90db246913c9baf07f38ffb39af80" title="Makes the blob act (move or attack)" alt="" coords="192,31,303,57"/>
+<area shape="rect" id="node3" href="$entities_8c.html#a7458b099aabee51298042e2edde9e2d8" title="Modifies the HP of an Entity in position ( x , y ) by health_mod." alt="" coords="351,5,469,32"/>
+<area shape="rect" id="node4" href="$entities_8c.html#a525a3fe4f3a4d24d73ce258b817462d7" title="Moves an entity from position ( curr_x , curr_y ) to postition ( new_x, new_y )" alt="" coords="369,56,451,83"/>
+</map>

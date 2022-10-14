@@ -1,0 +1,6 @@
+lab2
+.gdbinit
+.vscode
+.clang-format
+*.o
+*.txt

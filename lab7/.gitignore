@@ -1,0 +1,9 @@
+lab5
+lab7
+.vscode
+.clang-format
+*.o
+.gdbinit
+*.txt
+*.d
+.depend

@@ -1,0 +1,8 @@
+<map id="paint_area" name="paint_area">
+<area shape="rect" id="node1" title="Fills an area of the screen." alt="" coords="539,81,621,108"/>
+<area shape="rect" id="node2" href="$d7/d04/graphics_8h.html#ae495df15c9dad2e1d052e15c6526423e" title="Generates a new background (including UI background)" alt="" coords="359,56,491,83"/>
+<area shape="rect" id="node6" href="$dd/d65/game__helper_8h.html#ac2e814f8670e374692b399122563067d" title="Performs all game logic and displaying that occurs every frame depending on the game state." alt="" coords="377,107,472,133"/>
+<area shape="rect" id="node3" href="$dd/d65/game__helper_8h.html#a72c30bee155342f972c892a5a8d4a175" title="Processes the input that comes from the mouse and executes the associated logic." alt="" coords="164,5,311,32"/>
+<area shape="rect" id="node5" href="$dd/d65/game__helper_8h.html#a03d9f7e90ecc6a670f43c0510bf272c0" title="Processes the incoming packet from the UART (COM1) and executes the associated logic." alt="" coords="167,56,308,83"/>
+<area shape="rect" id="node4" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,56,116,83"/>
+</map>

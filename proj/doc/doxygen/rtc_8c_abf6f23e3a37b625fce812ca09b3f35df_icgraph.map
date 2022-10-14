@@ -1,0 +1,7 @@
+<map id="rtc_read_register" name="rtc_read_register">
+<area shape="rect" id="node1" title="Reads the Register reg of the RTC." alt="" coords="428,56,549,83"/>
+<area shape="rect" id="node2" href="$_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node3" href="$_l_c_o_m_8c.html#a2f5c62ef4118ce8c03eaa21181ebee4d" title=" " alt="" coords="164,31,219,57"/>
+<area shape="rect" id="node4" href="$rtc_8h.html#a01efed7ef3d173bcbbeefbde025f38ac" title="Reads the time from the RTC." alt="" coords="272,81,375,108"/>
+<area shape="rect" id="node5" href="$rtc_8h.html#a0b956beb30165538fcd684d0ee75b1a6" title="Sets the periodic interrupts time to send interrupts every delta_t." alt="" coords="267,132,380,159"/>
+</map>

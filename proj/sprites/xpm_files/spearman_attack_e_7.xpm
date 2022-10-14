@@ -1,0 +1,262 @@
+64 64 197 2 
+   c #0D0908
+.  c #160D08
+X  c #1C1109
+o  c #161C0E
+O  c #181C0E
++  c #191512
+@  c #1B1C14
+#  c #191A15
+$  c #221409
+%  c #241808
+&  c #2C1B09
+*  c #311E09
+=  c #241C13
+-  c #231F1A
+;  c #2B1A12
+:  c #1B2312
+>  c #1F2916
+,  c #2E2008
+<  c #34210B
+1  c #3B240C
+2  c #3C290F
+3  c #2E2213
+4  c #222B17
+5  c #2E2C15
+6  c #24211D
+7  c #2B231D
+8  c #232D18
+9  c #272718
+0  c #342312
+q  c #3A2611
+w  c #3C2B13
+e  c #263019
+r  c #28301A
+t  c #373216
+y  c #211F22
+u  c #242223
+i  c #2D2622
+p  c #2E2924
+a  c #2D2B2D
+s  c #332A25
+d  c #3A2E22
+f  c #332C2C
+g  c #3A2F2B
+h  c #302723
+j  c #393126
+k  c #3C332C
+l  c #35302B
+z  c #312E33
+x  c #3C3431
+c  c #35363D
+v  c #3B3A3D
+b  c #3B3839
+n  c #41260D
+m  c #442A0F
+M  c #492D0F
+N  c #49300E
+B  c #52300F
+V  c #432B11
+C  c #4A2E10
+Z  c #512F11
+A  c #4D3111
+S  c #533412
+D  c #5A3615
+F  c #573915
+G  c #5C3A14
+H  c #5F3A18
+J  c #633E16
+K  c #643E18
+L  c #683D13
+P  c #433222
+I  c #4D3925
+U  c #40372D
+Y  c #493727
+T  c #573E28
+R  c #413731
+E  c #443B33
+W  c #4A3F35
+Q  c #433D3A
+!  c #483D38
+~  c #654219
+^  c #6B4418
+/  c #6F4818
+(  c #634116
+)  c #724619
+_  c #744A1A
+`  c #79491D
+'  c #58412A
+]  c #4A4234
+[  c #46413C
+{  c #4C443C
+}  c #474136
+|  c #51433A
+ . c #5B4D3F
+.. c #54483A
+X. c #684B2C
+o. c #714C27
+O. c #694F30
++. c #675038
+@. c #705233
+#. c #373942
+$. c #3C4248
+%. c #4B4546
+&. c #45444A
+*. c #484749
+=. c #544B44
+-. c #5C4D45
+;. c #544E4B
+:. c #5B5144
+>. c #555049
+,. c #5B534B
+<. c #5D594E
+1. c #4C4C52
+2. c #454B50
+3. c #535257
+4. c #5D595B
+5. c #53575B
+6. c #64544B
+7. c #635A4E
+8. c #6C594D
+9. c #715C4D
+0. c #635B54
+q. c #6C5C53
+w. c #6A5E59
+e. c #615750
+r. c #725F51
+t. c #7C5F54
+y. c #6B655B
+u. c #756153
+i. c #796556
+p. c #7C665A
+a. c #756258
+s. c #6B6664
+d. c #726862
+f. c #776766
+g. c #77716A
+h. c #6C6E7D
+j. c #6A6D75
+k. c #7A7577
+l. c #805020
+z. c #826856
+x. c #846C5B
+c. c #8A6D5C
+v. c #876A56
+b. c #906F5E
+n. c #8B715E
+m. c #9A735C
+M. c #896E61
+N. c #8E7362
+B. c #81746E
+V. c #867061
+C. c #927561
+Z. c #967965
+A. c #9A7E69
+S. c #897976
+D. c #837976
+F. c #A07E6A
+G. c #94806E
+H. c #8A817F
+J. c #9E8978
+K. c #A1846F
+L. c #B4956E
+P. c #AD8C79
+I. c #B9947C
+U. c #727480
+Y. c #817B82
+T. c #878289
+R. c #9D8A81
+E. c #8B8D9B
+W. c #888A96
+Q. c #928F99
+!. c #9E9491
+~. c #A7988E
+^. c #B59884
+/. c #B9AB9F
+(. c #898EA1
+). c #9394A1
+_. c #BFB5AD
+`. c #A3A4B3
+'. c #CBAE9E
+]. c #DFB59C
+[. c #E4B196
+{. c #CEBCA7
+}. c #CCBCB1
+|. c #D8C3A6
+ X c #F3C9AD
+.X c #E4C3B0
+XX c #EFD2BB
+oX c #F1D0B5
+OX c #D9D2CA
++X c #D4D1D4
+@X c #F1DCCD
+#X c #FFEFDF
+$X c #EFECEB
+%X c #F6F2F3
+&X c #FFFBFE
+*X c #FDF7F5
+=X c #FF00DC
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X! f.S.S.w.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=Xg -.w.g.B.q.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=Xx ;.=.w.w.B.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=Xg ! E =.;.|.{.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X- f a z =. X{.!.D.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X+ - g P.z.[.J.d.d.k.Q.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X- U ^.F.K.i.R Q &.;.U.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=Xw p n.I.M.R x R U g Q 1.1.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=Xm F m.].L.O.x R R R E k x &.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=XM S S G L ( K Y Q R W k s b v =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=Xq m A A D ( ~ / ) T W R f R ;.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X3.d 1 m S S H ^ ~ ) ^ E U U %.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X1.- & < m C D L ) ` ) P R ! c =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X&.f ; % & * V S L ^ ) _ T [ v =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X&.z 7 7 = $ & < q S K ~ _ o.'.Y.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X&.z 7 i - = X $ % $ n J D L / c.J.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=Xv c 7 7 i 7 9 X X X X $ m H L / @.~.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X#.i i p i i 7 X $ X X X & Z D ~ ~ =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=Xa f i h p s i h = $ $ X . $ n S D F =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=Xf p i s s s i h ; $ $ X X $ & n G._.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=Xa a f f s 7 7 i l $ $ X X X $ A XX&X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=Xu u f p i 7 p 7 d s $ . X X ; I [.#X%X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X# y u u u y =X$ & Q h X $ ; Y +.c.oX$X`.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X% < q j s d d I C =XP.E.E.(.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=XT.).).T.5.=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X, < m < * < 1 S m =X=X#.U.(.W.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=Xx.S.Y.j.5.=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X& 1 M B n , < n B 1 =X=X=X#.j.E.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=XC.C.x.8.Q #.=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X1 m N D D M * < 2 , =X=X=X=Xc h.E.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=Xx.C.x.u. .=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X2 A G ( H m & % 0 { =X=X=X=X=X#.s.T.=X=X=X=X=X=X=X=X=X=X=X=Xb.x.p.6.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X' X.X.' Y k E 4.y.=X=X=X=X=X=X=X%X+X=X=X=X=X=X=X=Xz.N.x.r.| =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=Xi ] 0.y.g.d.:.>.0.d.=X=X=X=X=X=X=X&X&XOX=X=X=Xc.x.i.6.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=Xi U  .<.u.7.{ { <.d.=X=X=X=X=X=X=X&X&X}.N.x.u.| =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=Xi k }  .7.<.{ } ,.s.=X=X=X=X=X=XJ.@X.X^.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=Xs j k }  .:.} b :.:.=X=Xc.G.N.i.9.P.M.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=Xl k j } } ..] { i.n.C.V.6.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=XR j ] +.z.Z.N.p.:.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=Xq.n.A.x.y.7.{ p =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=Xz.F.Z.p.=.} [ { >.x 8 =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=Xb.A.x.u.=X=X=X=Xo o # @ : r =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X9.x.n.i.=X=X=X=X=X=X=X: o : > 4 8 =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X: O > > > : =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=XO : > e : =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X: : 4 : 4 =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X: 8 8 8 : 5 C =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X: r e e : w =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X: e 8 : : V =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X: 4 o O q M =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X: : o = n < =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X: > 4 t M 0 =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X: e e V V f =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X< 5 t m 1 =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X$ * < < < =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=Xv = $ * ,.=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=Xf 2.1.0.y./ A =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X$ X @ 3 q D ) _ D =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X= $ % * P 1 F _ l.J =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=Xc 4.R e.k.M , A G S =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X< E &.4.O.) ( < % $ =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X& S M M S F ~ / _ ( =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=XX & & * < N G ~ / H =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=XX $ $ X % 1 A A V =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X      . X X % =X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X
+=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X=X

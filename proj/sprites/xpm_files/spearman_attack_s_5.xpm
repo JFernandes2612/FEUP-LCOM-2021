@@ -1,0 +1,265 @@
+64 66 198 2 
+   c #140C08
+.  c #1B0E08
+X  c #0F170C
+o  c #111409
+O  c #1B1108
++  c #131A0C
+@  c #1C1B09
+#  c #121710
+$  c #151A10
+%  c #1B1A13
+&  c #1D1818
+*  c #221408
+=  c #251908
+-  c #2B1B09
+;  c #2B1708
+:  c #321E0A
+>  c #231B14
+,  c #281E11
+<  c #182010
+1  c #2F2008
+2  c #35220B
+3  c #3A240C
+4  c #3E280D
+5  c #26221B
+6  c #2C251B
+7  c #2F2A1E
+8  c #252510
+9  c #362411
+0  c #32241A
+q  c #3A2815
+w  c #2C2723
+e  c #2C2824
+r  c #242427
+t  c #332D24
+y  c #3C2E24
+u  c #332C2A
+i  c #34312B
+p  c #3A332D
+a  c #3A3427
+s  c #2E2D32
+d  c #353232
+f  c #3A3632
+g  c #3D3934
+h  c #3C3A3B
+j  c #33383B
+k  c #432B0E
+l  c #42260E
+z  c #4A300D
+x  c #52330F
+c  c #432A10
+v  c #4B2D11
+b  c #4D3211
+n  c #533412
+m  c #543913
+M  c #5A3B14
+N  c #5F3D18
+B  c #613E14
+V  c #663F18
+C  c #483A2C
+Z  c #43372A
+A  c #523D26
+S  c #423B35
+D  c #433F3A
+F  c #4B3E38
+G  c #664115
+H  c #664318
+J  c #6B4418
+K  c #6B4417
+L  c #704618
+P  c #724918
+I  c #794D1C
+U  c #5E452F
+Y  c #43413A
+T  c #484138
+R  c #57463B
+E  c #70502C
+W  c #3C3C43
+Q  c #423F45
+!  c #3D4144
+~  c #414044
+^  c #494542
+/  c #4C4945
+(  c #4D494B
+)  c #44444B
+_  c #544A45
+`  c #594D41
+'  c #534B4C
+]  c #594E4A
+[  c #524742
+{  c #5C534E
+}  c #5C5043
+|  c #554F51
+ . c #4C535C
+.. c #5B5555
+X. c #54545C
+o. c #5B595D
+O. c #56585E
++. c #65554C
+@. c #69574D
+#. c #6F5C4E
+$. c #6A5444
+%. c #715A4C
+&. c #755A49
+*. c #6B5A52
+=. c #675B55
+-. c #775F51
+;. c #7C614F
+:. c #6D615A
+>. c #6E6154
+,. c #746255
+<. c #7A6354
+1. c #75645A
+2. c #78665A
+3. c #7D6A5D
+4. c #5C5B63
+5. c #655F63
+6. c #6B6364
+7. c #6D696E
+8. c #68656A
+9. c #7C6C6A
+0. c #786967
+q. c #6B6973
+w. c #746E73
+e. c #74727C
+r. c #7D7778
+t. c #835121
+y. c #836A55
+u. c #826B5D
+i. c #8A6E5B
+p. c #8C725D
+a. c #846F62
+s. c #8D6F60
+d. c #867265
+f. c #8A7464
+g. c #8C766A
+h. c #8E796A
+j. c #877669
+k. c #927562
+l. c #937B6C
+z. c #977A67
+x. c #8C7D7A
+c. c #857975
+v. c #927D73
+b. c #A17E6B
+n. c #958069
+m. c #998376
+M. c #A3836D
+N. c #A78266
+B. c #A48777
+V. c #AE8E7A
+C. c #A98976
+Z. c #B1937F
+A. c #B88E79
+S. c #7B7983
+D. c #767781
+F. c #8A7F82
+G. c #8B858E
+H. c #84828D
+J. c #908688
+K. c #828595
+L. c #8E8E9A
+P. c #928C92
+I. c #99949C
+U. c #A58D8A
+Y. c #A59787
+T. c #B69985
+R. c #AC9D96
+E. c #B69F9E
+W. c #BEA18A
+Q. c #AAA198
+!. c #9799A6
+~. c #A5A1AB
+^. c #BAACAE
+/. c #A3A3B0
+(. c #B6AFBB
+). c #B3B1B2
+_. c #CCA38C
+`. c #D1A28B
+'. c #C6A690
+]. c #C9AB96
+[. c #C8B39D
+{. c #E8B79E
+}. c #CABDA4
+|. c #C6BEB2
+ X c #E8B7A0
+.X c #D5C9BB
+XX c #F7C4A7
+oX c #F7D7B8
+OX c #F3CBB5
++X c #DCD8DC
+@X c #FBECDF
+#X c #FFF3D8
+$X c #E1DEE3
+%X c #FFF0E8
+&X c #FFFBFD
+*X c #FDF9F8
+=X c #F3E9E7
+-X c #FF00DC
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-Xi.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-XM.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X<.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X` k.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-XB.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-Xp.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X{ 0.9.{ -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X@.k.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xp 6.9.c.c.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-XC.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xu ] =.=.9.' -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-Xp.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X` T.[ _ |.R.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X@.k.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xl. XXXoXoX}.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-XM.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xs.B.C.{.'.'.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-Xf.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XA.`.#XXX_.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X%.y.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XM B B G L V x l l 3 y.%.m.T.E -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-Xb.-X-X-X-X-X-X-X-X-X-X-X-X+XQ.B V J L P P I L n l 3 U b.`.N.N E c.q.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-Xh.-X-X-X-X-X-X-X-X-XK.$X&X%X].x n n M B L V V V n 3 = 0 A b M x.P.r.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X*.p.-X-X-X-X-X-X-XK.!.).#X_.%.: 3 3 3 l v n n n b k : - 2 n *.R.c.-.=.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-XM.-X-X-X-X-X-XK.!.P.r.T.-X-X-X-X-X-X. = : 3 3 4 k 4 k b k ~.J.g.1.<.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-Xz.-X-X-X-X-XL.I.F.X.g -X-X-X-X-X-X-X-X-XO - 3 3 k x b k R (.v.v.0.2.=.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X#.m.-X-X-XP.!.5.h -X-X-X-X-X-X-X-X-X-X-X-X. - 3 v b v : 8.^.g.l.d.a.3.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X'.*X&X*X=X6.( -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X= : k v : - e.E.y.l.d.a.2...-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-Xk.@X*X&X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XO = 1 - = * 7.U.%.j.a.a.y.:.-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XV.V.+X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XO ; * * * * ( U.<.i.9.2.a.,.-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XR z.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X. = * . . * d x.f.,.f.1.2.2...-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xp.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X. * * O   O > 6.m.,.a.1.3.d.*.-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X@.y.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X* * O   O O O | P.<.u.,.3.u.2.-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XF p.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X0 = * O O . . S H.d.1.d.3.f.d.{ -X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xk.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X: y 0 *   O . * S q.m.$.d.3.f.f.:.-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X%.y.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X= 3 2 0 p d s d Y Z.o.P.%.f.3.u.d.2.-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XR p.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X* - - = O . O O a R.m.e.u.;.d.3.d.d._ -X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xk.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xt - = O * O O O n..XW.4.H.;.B.>.d.f.+.-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X<.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xg Z * * * O O   C [.OX( r.u.f.3.g.d.2.-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X` i.-X-X-X-X-X-X-X-X-X-X-X-X-X-Xp _ T 6 O O O O O p.Y.D 4.x.-.l.d.d.3.` -X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xz.-X-X-X-X-X-X-X-X-X-X-X-X-X-Xg T ^ ^ D t 6 6 7 7 a a ~ S.-.B.3.f.9.+.-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X<.-X-X-X-X-X-X-X-X-X-X-X-X-X-Xp Y Y Y Y g i e 7 a t S D 4.r.<.h.h.u.2.-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X` i.-X-X-X-X-X-X-X-X-X-X-X-X-Xp Y Y Y Y Y f p p S T / h W e.#.l.d.d.<.-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xb.-X-X-X-X-X-X-X-X-X-X-X-X-Xp S g Y Y Y f g Y Y / / g -XX.w.k.a.l.1.] -X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xu.-X-X-X-X-X-X-X-X-X-X-X-X-Xp Y Y Y Y Y g g ~ ^ / ^ f -Xs 8.d.3.m.d.] -X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X+.i.-X-X-X-X-X-X-X-X-X-X-X-Xi g p i i g f g g S ^ Y i -X-Xh w.g.l.g...-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XG.S.-X-X-X-X-X-X-X-X-X-X-X-Xe t 7 8 7 7 7 g g T g -X-X-X-X! q.j.g.o.-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xj G./.-X-X-X-X-X-X-X-X-X-X-X-X+ + % 5 e i u f d e + -X-X-X-X-XW 4.6.( -X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X8.~.-X-X-X-X-X-X-X-X-X-X-X-X$ < X $ -X-X$ + o X X -X-X-X-X-X-Xr h -X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XW K.-X-X-X-X-X-X-X-X-X-X-X-X# % + + -X-X+ + X + -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XX.-X-X-X-X-X-X-X-X-X-X-X-X-X+ o $ -X-X+ +   + -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X$ $ o + -X-X# + X + -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X+ $ X $ -X-X# + o < -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X+ + + + -X-XX + + < -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X+ + + < -X-Xo o + % + -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X- c 2 + -X-X-Xo X # + -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X- - : = -X-X-X+ 3 4 8 -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X; = = * 8 -X-X-X8 ; - 2 -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XO * * * - -X-X9 - O * 4 -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X= * O O . -X-X* * . - 2 -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xj u   . 0 -X-X-XO O 2 9 -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XQ ) ) W -X-X-X5 . a 6.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XO & & O -X-X-XW  .O.u -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X= O O & -X-X-X+ O = 0 -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X& X.) ( j -X-X-X~ e T 7.-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X* Z C C , -X-X-Xp 4.0.U -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XO b H P 2 -X-X-X4 P P m -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XO b H P 3 -X-X-Xz J K n -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X@ m H I b -X-X-Xm P K M -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-XO M P t.M -X-X-XH I P M -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-Xb K I H -X-X-XJ I P b -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X2 n M b -X-X-Xn G N 9 -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X
+-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X  * * -X-X-X-XO = - -X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X-X

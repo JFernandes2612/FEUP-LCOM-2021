@@ -1,0 +1,255 @@
+64 64 190 2 
+   c #0E0808
+.  c #140D09
+X  c #1E1309
+o  c #141B0E
+O  c #191D0C
++  c #161C11
+@  c #1F1A16
+#  c #1D1B1A
+$  c #1B1A19
+%  c #231408
+&  c #261A09
+*  c #2C1C09
+=  c #361E09
+-  c #231B14
+;  c #231E1A
+:  c #1A2312
+>  c #2E220B
+,  c #34210A
+<  c #3B240C
+1  c #3E280D
+2  c #2D2114
+3  c #222A16
+4  c #24201D
+5  c #2A231E
+6  c #232D18
+7  c #282715
+8  c #3B2610
+9  c #3E2912
+0  c #392A19
+q  c #26311C
+w  c #29311B
+e  c #333416
+r  c #1E1E21
+t  c #242223
+y  c #2C2521
+u  c #2E2823
+i  c #252629
+p  c #2A292A
+a  c #302722
+s  c #332B24
+d  c #392C27
+f  c #332D2B
+g  c #392E2A
+h  c #353226
+j  c #393025
+k  c #35312C
+l  c #3B332C
+z  c #302E31
+x  c #353334
+c  c #3C3432
+v  c #3D3832
+b  c #37373C
+n  c #3B393C
+m  c #39373B
+M  c #442A0E
+N  c #452B0E
+B  c #442A12
+V  c #4B2D10
+C  c #432E1D
+Z  c #512F13
+A  c #4C3011
+S  c #46331A
+D  c #48321A
+F  c #533412
+G  c #593612
+H  c #553813
+J  c #5B3914
+K  c #50371A
+L  c #5D3B1A
+P  c #633D18
+I  c #623D16
+U  c #41342D
+Y  c #4C3D2A
+T  c #48382B
+R  c #583E28
+E  c #423632
+W  c #443B34
+Q  c #493F35
+!  c #493F39
+~  c #6A4418
+^  c #6A4718
+/  c #744A1A
+(  c #7B4E1E
+)  c #594122
+_  c #4C423A
+`  c #4E4236
+'  c #54443B
+]  c #58473B
+[  c #5D4B3E
+{  c #554232
+}  c #634F3E
+|  c #6E553B
+ . c #7C5635
+.. c #3D3C42
+X. c #433D40
+o. c #454142
+O. c #4D4543
++. c #45454D
+@. c #484849
+#. c #504641
+$. c #5D4D42
+%. c #564C4A
+&. c #584E4A
+*. c #514845
+=. c #51504C
+-. c #5C524D
+;. c #5A5143
+:. c #4C4C54
+>. c #524E51
+,. c #4E555A
+<. c #585455
+1. c #624D41
+2. c #665245
+3. c #64554B
+4. c #6D5749
+5. c #6B5847
+6. c #735A4A
+7. c #795D4F
+8. c #635A54
+9. c #695E5B
+0. c #6F5D53
+q. c #6F615B
+w. c #796151
+e. c #766256
+r. c #5C5C63
+t. c #5E5F68
+y. c #625D62
+u. c #5F616B
+i. c #5F6571
+p. c #696369
+a. c #626368
+s. c #756D64
+d. c #766B6D
+f. c #796A69
+g. c #7B7166
+h. c #797268
+j. c #6D6B74
+k. c #776F70
+l. c #72727A
+z. c #767277
+x. c #836755
+c. c #846A56
+v. c #856B59
+b. c #8A6D5A
+n. c #886757
+m. c #8D725E
+M. c #92725E
+N. c #9C7358
+B. c #83746B
+V. c #8F7360
+C. c #977864
+Z. c #8A7D74
+A. c #867877
+S. c #9C886D
+D. c #888076
+F. c #A5816E
+G. c #B88F78
+H. c #A1917E
+J. c #B7967D
+K. c #C3957C
+L. c #7C808A
+P. c #848085
+I. c #8A8188
+U. c #9E958A
+Y. c #8E8A92
+T. c #928A92
+R. c #95929A
+E. c #AA9282
+W. c #A4969C
+Q. c #B79C88
+!. c #BFA38A
+~. c #9795A4
+^. c #C49A82
+/. c #C8A28C
+(. c #DCAE96
+). c #DCB79E
+_. c #E0AB92
+`. c #DAB9A3
+'. c #C3BEBB
+]. c #F1BBA3
+[. c #D3C2B0
+{. c #D8CAB5
+}. c #E6C4A9
+|. c #E6D6BE
+ X c #FFD4B9
+.X c #DACFC1
+XX c #E7DBC8
+oX c #FFE5C9
+OX c #FFF9E4
++X c #FF00DC
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xq.y.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X! y.B.Z.B.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xk 2.3.B.A.q.%.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xg #.X.8.y.3..X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xu ! W *.%.H.XX+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X# p f m W ].}.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xt T G.4.(.).+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xt ! ^.C.J.).+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X* C ] n.b.w.1.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X= H  .N.G.c.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X* M G H H G < +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X& V I I ^ ~ F q.~.I.I.T.R.W.A.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xr.t.r.2 F L P ( / Z A 0 5 5 5 a O.f.d.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X9.a.,.m i y = F F P P P V F 9 5 a a s y E %.-.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xk.a.X.t - - - - * V F J P J V H V f s k U l c ! %.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xd.p.X.y ; 5 y f s a & M V F P F M F S g f l l l l c @.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+Xy.>.x a 5 5 5 y 5 ; @ - < M V G Z B V B v g l E l k n @.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X@.m k g a 5 y 5 y y 5 y 5 = M V F M 1 B B W _ f v T k W @.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+Xx z E E a u u 5 5 5 y y y * < M Z < , 9 9 Q l U ` Q T X.+.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+Xf z E g y y u 5 5 y u u a * , 1 B , = 1 8 ' Q ` _ W U o.+.+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+Xp x c s 4 5 5 ; 5 u s s y 2 , , M = , = 0 l a l _ l s @...+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+Xi z s u u 5 y 5 ; ; t ; u 0 C S * , = 0 E U ' &._ n m +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X# i f a 5 y u ; @ t 2 d F.(.m.* , = { &.3.-.=.x +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X$ t t t y u a 0 * W /. XS.* < { &.m b +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xt t 7 * 1 ).oX{.] } R 1 +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+XP.Y.~.R.j.+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X* = B `.XXXX) F V , +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xe.z.L.l.r.+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X* , , 8 ,.i.l.) H M * +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xb.V.b.[ c x r +X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X& > , 1 b :.a.D A < , +X+X+X+X+X+X+X+X+X+X+X+X+X+X+XM.V.b.1.E +X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X, M M f :.u.B 1 Y &.+X+X+X+X+X+X+X+X+X+X+X+X+XV.b.1.U +X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X0 T Y k +.u.} 0.g.8.+X+X+X+X+X+X+X+X+X+Xv.m.w.} U +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xl ;.=._ ..p.D.D.h.<.+X+X+X+X+X+X+Xc.b.7.1.U +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xh ` v _ n a.h.g.s.8.+X+X+X+Xv.v.7.} U +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xh h l U 9.[.[.U.h.8.+Xc.x.6.' d +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xy j j h k !.oXOX{.E.v.6.' d +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xv h s j J. XoX[.] U +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xx l ;.e.F.].(.Q.Q +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xm.C.w._ l 3.#.#.k +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xm.m.4.` u k x k x v h 3 +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xb.v.2.E +X+X+X+X+ : : ; : 3 3 +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xb.b.4.W +X+X+X+X+X+X+Xo $ o : 6 6 3 +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X4.c.m.4.T ; +X+X+X+X+X+X+X+X+Xo : : 3 w w +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X4.M.n.[ 5 +X+X+X+X+X+X+X+X+X+X+X+Xo + : : w : +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X4.x.x.2.E 4 +X+X+X+X+X+X+X+X+X+X+X+X+X+X+ + : 3 q : +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X6.x.7.[ g ; +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X3 6 q q : > +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X6.7.$.g +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X6 w 6 w 6 V +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X; @ +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X6 w w w 3 V +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X6 w w w K M +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X6 3 6 S J 8 +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X: 6 : 6 F V & +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xo 6 6 w V B +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X7 6 6 e B S +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X* 9 9 B 8 * +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X- % & * = 0 +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+Xx :.v l 3.g.H +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+XX p ..@.>.) / G +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+XX % X - , B J / ( I +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X. s X % j { , H / ( G +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X:.%.*.D.| N , B H N +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+XD ` _ ;.^ ^ J 1 , +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+XX 1 N M A F J ^ / ( H +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X. * * * > < V L ~ ^ G +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X. X % X % * M A H B +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X. .   . . X % & +X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X
++X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X+X

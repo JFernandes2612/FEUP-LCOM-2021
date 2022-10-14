@@ -1,0 +1,6 @@
+<map id="animate_spearman" name="animate_spearman">
+<area shape="rect" id="node1" title="Animates the spearman according to its action." alt="" coords="5,56,137,83"/>
+<area shape="rect" id="node2" href="$player_8c.html#a1ef2d92b05b9c22e1811bf09a80f1fc0" title="Animates the spearman&#39;s attack." alt="" coords="185,5,360,32"/>
+<area shape="rect" id="node3" href="$player_8c.html#aeec69c660cc505f7ca09f29987131823" title="Animates the spearman&#39;s directional move." alt="" coords="187,56,358,83"/>
+<area shape="rect" id="node4" href="$player_8c.html#afcbcbbf55587b8fad670ca62becea8d1" title="Animates the spearman&#39;s directional move." alt="" coords="187,107,358,133"/>
+</map>

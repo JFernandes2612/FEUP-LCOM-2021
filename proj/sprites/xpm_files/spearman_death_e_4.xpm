@@ -1,0 +1,279 @@
+64 64 214 2 
+   c #130F0E
+.  c #1B110E
+X  c #15140E
+o  c #1A1311
+O  c #171B12
++  c #1A1D13
+@  c #181414
+#  c #22160E
+$  c #25190E
+%  c #2B1B0F
+&  c #311E0E
+*  c #251810
+=  c #2C1D11
+-  c #301F10
+;  c #1B2214
+:  c #1F2517
+>  c #35230E
+,  c #3B250E
+<  c #39280E
+1  c #232B19
+2  c #272518
+3  c #342212
+4  c #392410
+5  c #3D2912
+6  c #342815
+7  c #29331C
+8  c #27331D
+9  c #2B2827
+0  c #2C3721
+q  c #2D3922
+w  c #333B22
+e  c #3B3528
+r  c #2F3131
+t  c #3C3533
+y  c #393738
+u  c #412710
+i  c #442C11
+p  c #4B2E12
+a  c #422F1F
+s  c #4C3213
+d  c #543414
+f  c #553816
+g  c #5B3B16
+h  c #5D3B18
+j  c #563818
+k  c #41280F
+l  c #623C18
+z  c #48392B
+x  c #4A3D33
+c  c #453D38
+v  c #334429
+b  c #3B4B2A
+n  c #384426
+m  c #3E512C
+M  c #5D4017
+N  c #644019
+B  c #6B431B
+V  c #6D4A1C
+C  c #73461D
+Z  c #734A1D
+A  c #7A4D1E
+S  c #414E2D
+D  c #43542F
+F  c #4B423C
+G  c #49443C
+H  c #54453B
+J  c #5C4C3E
+K  c #534638
+L  c #495C34
+P  c #465731
+I  c #565A32
+U  c #5D4127
+Y  c #754B20
+T  c #7B5121
+R  c #604D3A
+E  c #6D5131
+W  c #4E6338
+Q  c #55693D
+!  c #666A3B
+~  c #3E3F41
+^  c #403D40
+/  c #3F4046
+(  c #444144
+)  c #4F4946
+_  c #48474C
+`  c #534742
+'  c #544D45
+]  c #5B4C42
+[  c #534C4A
+{  c #5A4E4D
+}  c #5E5443
+|  c #5B534C
+ . c #5B574D
+.. c #4B4C53
+X. c #5A5756
+o. c #635444
+O. c #66554B
++. c #6C5C4A
+@. c #67594A
+#. c #725B4C
+$. c #6C5C52
+%. c #645B5A
+&. c #6A5C59
+*. c #635852
+=. c #735D56
+-. c #705F5B
+;. c #674F42
+:. c #586D42
+>. c #5C7243
+,. c #6C625A
+<. c #6C6754
+1. c #746353
+2. c #7B6352
+3. c #79665B
+4. c #7B6B5E
+5. c #776958
+6. c #6F634B
+7. c #545A62
+8. c #675E61
+9. c #5D616A
+0. c #676468
+q. c #736562
+w. c #746B62
+e. c #7A6961
+r. c #796D68
+t. c #7E7364
+y. c #7C766A
+u. c #6C6B72
+i. c #6B6E7B
+p. c #6C707E
+a. c #74747E
+s. c #7D7778
+d. c #804F21
+f. c #875421
+g. c #826C5C
+h. c #8B6E5C
+j. c #8B6A50
+k. c #846E61
+l. c #847363
+z. c #8B7364
+x. c #84756B
+c. c #8B7669
+v. c #857A6B
+b. c #8D7B6B
+n. c #857866
+m. c #927B6C
+M. c #9D7D68
+N. c #967764
+B. c #887873
+V. c #947F70
+C. c #9C816C
+Z. c #968369
+A. c #8E8473
+S. c #8A837A
+D. c #938374
+F. c #9C8372
+G. c #94857A
+H. c #8C826E
+J. c #A3826D
+K. c #A9866E
+L. c #AB8671
+P. c #AD8A72
+I. c #A48C7B
+U. c #A68875
+Y. c #B28C73
+T. c #B88F7C
+R. c #A9917F
+E. c #A6927D
+W. c #B6937A
+Q. c #B69278
+!. c #BCA47E
+~. c #797884
+^. c #7F818A
+/. c #878284
+(. c #9B8D82
+). c #9B9381
+_. c #8B8B95
+`. c #9A8E91
+'. c #9B9597
+]. c #AC9381
+[. c #A69888
+{. c #B59A87
+}. c #BA9E8C
+|. c #B89885
+ X c #A89B98
+.X c #B59F90
+XX c #AFA294
+oX c #9A9BA5
+OX c #A29BA3
++X c #A7A2AA
+@X c #A8A6B2
+#X c #B0AFBB
+$X c #BAB3A9
+%X c #C29880
+&X c #D8AC95
+*X c #C0B19E
+=X c #D8B69C
+-X c #C9A691
+;X c #C8BDA5
+:X c #D1BEA6
+>X c #F2BEA1
+,X c #CAC0AF
+<X c #D9C9B5
+1X c #D2C6B3
+2X c #ECCCB1
+3X c #B3B5C9
+4X c #CECCCF
+5X c #F9EAD0
+6X c #FFFBE0
+7X c #FFFBED
+8X c #FFF6EF
+9X c #FFFBF7
+0X c #E9E2E1
+qX c #FF00DC
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX{ &.,.8.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX{ -.q.k.B.q.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXc { &.*.r.B.B.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXc ` { ` &.q.| qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX9 r ^ x ^ { &.U.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXF c x %X=.=.>XqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXp h B Z.G.%XM.%X%X&X-XqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXs N B T T !.>XM.N.L.U.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX> d l Z Z B N j.#.qX;.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXi h B V Z Z Z u qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX$ i l B B B Z Z u qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX= i p h N B A C qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX% i , d l l C B qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX% i u i f l l C qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX& p p u d d N l qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX$ < i u & p j l j qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXe.& 4 i > - p d h i qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX=.l.F.1.3 < k = % i s g 5 qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX3.z.c.x.c.H > k , % # % < 5 > qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqX3.z.z.4.e.c.+.' 4 k , $ . U.:X].qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqX3.c.b.b.e.4.l.C.a x *.K , * # :X6X,XqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXe.c.F.m.c.k.k.m.b.] < g j R o.x z 2X7X,XqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXw.m.F.J.b.n.e.b.F.3.O.6 p l f h C d i 5X9X4XqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXc.F.I.R.E.c.F.J.g.O.2.@.4 s l g l C d e _.oX XqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXe.F.I.].[.}.}.C.n.$.3.l./.x i f N B l l i 6 7.~.i.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXm.I.R.{.}.-X&XI.=.3.c./.^.a.[ j N Y N d p & = 7.i.B.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXx.].{.{.{.{.}.R.m.m.G./.~.0...r 2 *.v.S.`.G.y.*.H 7.i.`.<X;XqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqX(.}.}.I.].|.}.G.F. X#X@Xu.~ 9 qXqXt o.v.).[.[.S.%.| 7.~.`.R.:X XqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qX/.{.].U.Y.-X}. XoX+XoX~...qXqXqXqXqXz o.6.l.H.A.y. .' X.a.A.Z.<X<.n qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+8./._.'.oXoXOX`.B.%.( r qXqXqXqXqXqXqXe } <.n.D.H.t.' ) X.y.5.[.).W W b qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qX( 8.8.8.{ y 9 qXqXqXqXqXqXqXqXqXqXqXG J @.<.l.n.t.'  .XX7X0X$Xb m L W P qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXG ' I +.<.6.6.G %.<X7X9X,XS.v b P L L qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXOX@X@X`._ qX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXe ) K } <.@.+.@.G  .,X6X6X$X: O 7 b D L S qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXk.'.oXi.qXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX3 z )  .,.5.5.4.w.G K U.=XW.Z.D n q 0 n m b qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXJ.Y.h.) ^ qXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX4 3 y [ %.r.w.y.<.G G z U B L D S b n q 0 1 qXqXqXqXqXqXqXqXqXqXqXqXqXqXP.P.2.c qXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX& 3 2 1 t ) X.<.' t 9.s s f w 8 2 ; O O O qXqXqXqXqXqXqXqXqXqXqXqXqXT.K.+.qXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX* % $ : 1 : ; : @ ~ _ = - 4 5 6 5 5 5 qXqXqXqXqXqXqXqXqXqXqXqXqXY.M.] qXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX. . 1 8 8 7 : qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXJ.P.h.K qXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXl V C '.3XqXqXqXB.qXqXqXqXqXqXqXqXo 1 0 0 q + qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXP.P.2.x qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXp h B A OX@XT T d.4X$Xf.f.I L m qXqX1 1 0 q 0 qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXP.K.+.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qX5 p f g ~.@.h l E 3XV.Z d.! >.>.>.>.>.v q q 7 qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXP.N.J qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qX& , 3 5 G 2 3 < { ~.J h N I W W Q :.:.L v q : qXqXqXqXqXqXqXqXqXqXqXqXqXM.P.h.H qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qX* $ $ = 5 4   o y ( - < s w q q q v b b q 1 qXqXqXqXqXqXqXqXqXqXqXqXJ.P.g.x qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqX  o % i i , qXqX@ X . $ < 5 3 + O + ; + qXqXqXqXqXqXqXqXqXqXqXW.Y.2.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqX. # 4 s i qXqXqXqXqXqXqXo # * qXqXqXqXqXqXqXqXqXqXqXqXqXT.Y.+.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqX  * > 3 qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXQ.M.] qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqX  . qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXJ.P.z.H qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXK.L.2.c qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXP.L.+.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXL.J.] qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXN.P.N.J qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXC.Y.g.H qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXJ.K.#.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXK.M.;.qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqX] H qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX
+qXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqXqX

@@ -1,0 +1,12 @@
+<map id="update_animations" name="update_animations">
+<area shape="rect" id="node1" title="Updates the animations of all Entities." alt="" coords="5,213,136,239"/>
+<area shape="rect" id="node2" href="$enemies_8c.html#a8f86b7712a773166a6ae8c35799e7135" title="Animates the green blobs depending on their current action." alt="" coords="184,137,323,163"/>
+<area shape="rect" id="node7" href="$player_8c.html#a21201934ad44d6ccf7beb9ae2278dda7" title="Animates the spearman according to its action." alt="" coords="187,263,319,290"/>
+<area shape="rect" id="node3" href="$enemies_8c.html#aef73587c39142a13b9548fd05228ef5a" title="Animates the green blobs attacking." alt="" coords="391,5,529,47"/>
+<area shape="rect" id="node4" href="$enemies_8c.html#ab6b97c3e7de640e218312f9a34ebba3d" title="Animates the green blobs dying." alt="" coords="391,71,529,112"/>
+<area shape="rect" id="node5" href="$enemies_8c.html#a0a455a38e1bfcd3907f5b0ecd3dd5d8b" title="Animates the green blobs idle state." alt="" coords="377,137,543,163"/>
+<area shape="rect" id="node6" href="$enemies_8c.html#aacc94f7f60bb7d9d608e19f4802398de" title="Animates the green blobs moving state." alt="" coords="371,187,549,214"/>
+<area shape="rect" id="node8" href="$player_8c.html#a1ef2d92b05b9c22e1811bf09a80f1fc0" title="Animates the spearman&#39;s attack." alt="" coords="373,238,547,265"/>
+<area shape="rect" id="node9" href="$player_8c.html#aeec69c660cc505f7ca09f29987131823" title="Animates the spearman&#39;s directional move." alt="" coords="375,289,545,315"/>
+<area shape="rect" id="node10" href="$player_8c.html#afcbcbbf55587b8fad670ca62becea8d1" title="Animates the spearman&#39;s directional move." alt="" coords="375,339,545,366"/>
+</map>

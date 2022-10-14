@@ -1,0 +1,12 @@
+<map id="rtc_read_time" name="rtc_read_time">
+<area shape="rect" id="node1" title="Reads the time from the RTC." alt="" coords="891,107,993,133"/>
+<area shape="rect" id="node2" href="$dd/d65/game__helper_8h.html#aa1ee142c726e35646cf2262524f54d14" title="Generates the random enemy board on the grid." alt="" coords="359,56,472,83"/>
+<area shape="rect" id="node6" href="$dc/d1b/rtc_8h.html#a2f5c62ef4118ce8c03eaa21181ebee4d" title="RTC interrupt handler." alt="" coords="555,107,610,133"/>
+<area shape="rect" id="node7" href="$dc/d1b/rtc_8h.html#adb4289b2015a3ec052bae20542244311" title="Sets an alarm at current_time + delta_seconds." alt="" coords="693,157,843,184"/>
+<area shape="rect" id="node3" href="$dd/d65/game__helper_8h.html#a72c30bee155342f972c892a5a8d4a175" title="Processes the input that comes from the mouse and executes the associated logic." alt="" coords="164,5,311,32"/>
+<area shape="rect" id="node5" href="$dd/d65/game__helper_8h.html#a03d9f7e90ecc6a670f43c0510bf272c0" title="Processes the incoming packet from the UART (COM1) and executes the associated logic." alt="" coords="167,56,308,83"/>
+<area shape="rect" id="node4" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,116,108"/>
+<area shape="rect" id="node8" href="$d3/d62/player_8h.html#aa281b82564297b42eb7b3bf734650e36" title="The spearman uses its special ability." alt="" coords="520,157,645,184"/>
+<area shape="rect" id="node9" href="$d3/d62/player_8h.html#a43024b59b971eee693bdf802580d046e" title="The spearman acts acording to action in PA." alt="" coords="364,157,467,184"/>
+<area shape="rect" id="node10" href="$dd/d65/game__helper_8h.html#ac2e814f8670e374692b399122563067d" title="Performs all game logic and displaying that occurs every frame depending on the game state." alt="" coords="190,157,285,184"/>
+</map>

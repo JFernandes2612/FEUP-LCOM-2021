@@ -1,0 +1,5 @@
+<map id="mouse_write_command" name="mouse_write_command">
+<area shape="rect" id="node1" title="Writes cmd to the mouse." alt="" coords="5,31,164,57"/>
+<area shape="rect" id="node2" href="$mouse_8c.html#a79f822ee418bebe387c463fbb343106c" title="Writes cmd to the KBC." alt="" coords="212,5,353,32"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Gets from port 8 bit information to value." alt="" coords="401,31,491,57"/>
+</map>

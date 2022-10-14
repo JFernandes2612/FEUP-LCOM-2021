@@ -1,0 +1,6 @@
+<map id="rtc_set_periodic" name="rtc_set_periodic">
+<area shape="rect" id="node1" title="Sets the periodic interrupts time to send interrupts every delta_t." alt="" coords="5,31,119,57"/>
+<area shape="rect" id="node2" href="$rtc_8c.html#abf6f23e3a37b625fce812ca09b3f35df" title="Reads the Register reg of the RTC." alt="" coords="168,5,289,32"/>
+<area shape="rect" id="node4" href="$rtc_8c.html#a9356a574f1893f56d0973dd06db6ed74" title="Writes to the Register reg of the RTC data." alt="" coords="167,56,291,83"/>
+<area shape="rect" id="node3" href="$utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Gets from port 8 bit information to value." alt="" coords="339,5,428,32"/>
+</map>

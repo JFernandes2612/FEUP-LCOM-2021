@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['s_5fwall_597',['s_wall',['../d3/def/sprites_8h.html#aa779421c2e59c9a49aa60529ab95120f',1,'sprites.h']]],
+  ['se_5fcorner_598',['se_corner',['../d3/def/sprites_8h.html#a86c545f9f89eede6cb605ecb8d64bada',1,'sprites.h']]],
+  ['spearman_5fattack_5fsprites_599',['spearman_attack_sprites',['../d3/def/sprites_8h.html#a2510a7d053c26df2545c48fe610a513e',1,'sprites.h']]],
+  ['spearman_5fdeath_5fsprites_600',['spearman_death_sprites',['../d3/def/sprites_8h.html#abe2f63c54b90070a56d3d3601452fca7',1,'sprites.h']]],
+  ['spearman_5fdirection_5fsprites_601',['spearman_direction_sprites',['../d3/def/sprites_8h.html#a4059c4711d7062777b59731e6c33693e',1,'sprites.h']]],
+  ['spearman_5fspecial_5fe_5fw_602',['spearman_special_e_w',['../d3/def/sprites_8h.html#ab8f5cc73b6702209cdeaaf45ce43e783',1,'sprites.h']]],
+  ['spearman_5fspecial_5fn_5fs_603',['spearman_special_n_s',['../d3/def/sprites_8h.html#a3c4a709f5b5ee2b4112e0c25ed3b9a61',1,'sprites.h']]],
+  ['spearman_5fspecial_5fui_604',['spearman_special_UI',['../d3/def/sprites_8h.html#a381a27bc948118f1b7e112f988f5a892',1,'sprites.h']]],
+  ['spearman_5fwalk_5fsprites_605',['spearman_walk_sprites',['../d3/def/sprites_8h.html#ad4b502f373915c82d502aad372b0d47c',1,'sprites.h']]],
+  ['special_5fcd_606',['special_cd',['../d1/d8e/struct_spear_man.html#a963cc2ab4525f06a48bdf18b841c3f15',1,'SpearMan']]],
+  ['special_5fdmg_607',['special_dmg',['../d1/d8e/struct_spear_man.html#a7c65d332931c247579e0d13406c6fd07',1,'SpearMan']]],
+  ['special_5fin_5fcd_608',['special_in_cd',['../d1/d8e/struct_spear_man.html#afbff8840a8b98248f4d1ed04bda17508',1,'SpearMan']]],
+  ['special_5frange_609',['special_range',['../d1/d8e/struct_spear_man.html#abb973e0a8b653e54b5cd93d848526926',1,'SpearMan']]],
+  ['special_5frange_5fborder_610',['special_range_border',['../d3/def/sprites_8h.html#a24040ac6db74b1fbccb0c544fc432464',1,'sprites.h']]],
+  ['special_5frange_5fselected_5fborder_611',['special_range_selected_border',['../d3/def/sprites_8h.html#ac9c52e9bf5c1b302defe0c8877ca4b8b',1,'sprites.h']]],
+  ['sw_5fcorner_612',['sw_corner',['../d3/def/sprites_8h.html#aa61617c879c9522f34269fb33d13aad6',1,'sprites.h']]],
+  ['sync_5fframe_613',['sync_frame',['../dd/db8/struct_game.html#aa97d1e0666fafa574a6404297deede4c',1,'Game']]],
+  ['sync_5fstate_614',['sync_state',['../dd/db8/struct_game.html#ac1910f1047e53e06b5f6c244b4f680ae',1,'Game']]]
+];

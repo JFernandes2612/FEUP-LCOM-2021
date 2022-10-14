@@ -1,0 +1,6 @@
+<map id="create_grid_image" name="create_grid_image">
+<area shape="rect" id="node1" title="Create a grid image object." alt="" coords="395,42,524,69"/>
+<area shape="rect" id="node2" href="$d3/def/sprites_8h.html#a8aa200b91ad90efc6ac81569b804e070" title="generates the green blob sprites" alt="" coords="183,5,327,47"/>
+<area shape="rect" id="node4" href="$d3/def/sprites_8h.html#a48949e97396d2ead1a080a3bd88249ef" title="Generates the spearman sprites." alt="" coords="164,71,347,98"/>
+<area shape="rect" id="node3" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,42,116,69"/>
+</map>

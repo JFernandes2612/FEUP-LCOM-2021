@@ -1,0 +1,12 @@
+<map id="util_sys_inb" name="util_sys_inb">
+<area shape="rect" id="node1" title="Gets from port 8 bit information to value." alt="" coords="685,107,775,133"/>
+<area shape="rect" id="node2" href="$mouse_8h.html#a79f822ee418bebe387c463fbb343106c" title="Writes cmd to the KBC." alt="" coords="496,5,637,32"/>
+<area shape="rect" id="node3" href="$mouse_8h.html#a090c9bebd05709adc5de77ab5b26d7c3" title="Writes cmd to the mouse." alt="" coords="289,56,448,83"/>
+<area shape="rect" id="node5" href="$_l_c_o_m_8c.html#a3cec4f94f8a58397f557a3599dfafee4" title=" " alt="" coords="173,107,233,133"/>
+<area shape="rect" id="node6" href="$_l_c_o_m_8c.html#aed4404005e4c565ac36656307386e0ac" title=" " alt="" coords="164,157,241,184"/>
+<area shape="rect" id="node7" href="$rtc_8h.html#abf6f23e3a37b625fce812ca09b3f35df" title="Reads the Register reg of the RTC." alt="" coords="506,259,627,285"/>
+<area shape="rect" id="node4" href="$_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,157,116,184"/>
+<area shape="rect" id="node8" href="$_l_c_o_m_8c.html#a2f5c62ef4118ce8c03eaa21181ebee4d" title=" " alt="" coords="175,259,230,285"/>
+<area shape="rect" id="node9" href="$rtc_8h.html#a01efed7ef3d173bcbbeefbde025f38ac" title="Reads the time from the RTC." alt="" coords="317,309,420,336"/>
+<area shape="rect" id="node10" href="$rtc_8h.html#a0b956beb30165538fcd684d0ee75b1a6" title="Sets the periodic interrupts time to send interrupts every delta_t." alt="" coords="312,360,425,387"/>
+</map>

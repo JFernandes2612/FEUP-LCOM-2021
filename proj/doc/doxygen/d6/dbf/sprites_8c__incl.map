@@ -1,0 +1,13 @@
+<map id="sprites/sprites.c" name="sprites/sprites.c">
+<area shape="rect" id="node1" title=" " alt="" coords="274,5,387,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="91,379,170,405"/>
+<area shape="rect" id="node3" title=" " alt="" coords="214,379,306,405"/>
+<area shape="rect" id="node4" title=" " alt="" coords="335,379,423,405"/>
+<area shape="rect" id="node5" href="$d3/def/sprites_8h.html" title=" " alt="" coords="222,304,293,331"/>
+<area shape="rect" id="node6" href="$d7/d04/graphics_8h.html" title=" " alt="" coords="147,80,242,107"/>
+<area shape="rect" id="node10" title=" " alt="" coords="419,80,579,107"/>
+<area shape="rect" id="node11" title=" " alt="" coords="603,80,813,107"/>
+<area shape="rect" id="node7" href="$d3/d62/player_8h.html" title=" " alt="" coords="164,155,233,181"/>
+<area shape="rect" id="node9" href="$d6/d4f/enemies_8h.html" title=" " alt="" coords="58,155,139,181"/>
+<area shape="rect" id="node8" href="$dd/d5a/entities_8h.html" title=" " alt="" coords="93,229,168,256"/>
+</map>

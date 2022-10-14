@@ -1,0 +1,4 @@
+<map id="send_data_uart" name="send_data_uart">
+<area shape="rect" id="node1" title="Sends a byte to the UART." alt="" coords="5,5,116,32"/>
+<area shape="rect" id="node2" href="$d3/d91/utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Gets from port 8 bit information to value." alt="" coords="164,5,253,32"/>
+</map>

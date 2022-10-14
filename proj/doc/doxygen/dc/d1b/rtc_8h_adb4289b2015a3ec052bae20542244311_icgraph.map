@@ -1,0 +1,7 @@
+<map id="rtc_set_alarm_delta_s" name="rtc_set_alarm_delta_s">
+<area shape="rect" id="node1" title="Sets an alarm at current_time + delta_seconds." alt="" coords="631,5,780,32"/>
+<area shape="rect" id="node2" href="$d3/d62/player_8h.html#aa281b82564297b42eb7b3bf734650e36" title="The spearman uses its special ability." alt="" coords="457,5,583,32"/>
+<area shape="rect" id="node3" href="$d3/d62/player_8h.html#a43024b59b971eee693bdf802580d046e" title="The spearman acts acording to action in PA." alt="" coords="307,5,409,32"/>
+<area shape="rect" id="node4" href="$dd/d65/game__helper_8h.html#ac2e814f8670e374692b399122563067d" title="Performs all game logic and displaying that occurs every frame depending on the game state." alt="" coords="164,5,259,32"/>
+<area shape="rect" id="node5" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,116,32"/>
+</map>

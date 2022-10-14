@@ -1,0 +1,7 @@
+lab3
+.vscode
+.clang-format
+*.o
+*.txt
+kbc_cmdr
+.gdbinit

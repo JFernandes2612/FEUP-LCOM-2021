@@ -1,0 +1,7 @@
+<map id="animate_green_blob" name="animate_green_blob">
+<area shape="rect" id="node1" title="Animates the green blobs depending on their current action." alt="" coords="5,107,144,134"/>
+<area shape="rect" id="node2" href="$db/d6f/enemies_8c.html#aef73587c39142a13b9548fd05228ef5a" title="Animates the green blobs attacking." alt="" coords="212,5,351,47"/>
+<area shape="rect" id="node3" href="$db/d6f/enemies_8c.html#ab6b97c3e7de640e218312f9a34ebba3d" title="Animates the green blobs dying." alt="" coords="212,71,351,112"/>
+<area shape="rect" id="node4" href="$db/d6f/enemies_8c.html#a0a455a38e1bfcd3907f5b0ecd3dd5d8b" title="Animates the green blobs idle state." alt="" coords="198,137,365,163"/>
+<area shape="rect" id="node5" href="$db/d6f/enemies_8c.html#aacc94f7f60bb7d9d608e19f4802398de" title="Animates the green blobs moving state." alt="" coords="192,187,371,214"/>
+</map>

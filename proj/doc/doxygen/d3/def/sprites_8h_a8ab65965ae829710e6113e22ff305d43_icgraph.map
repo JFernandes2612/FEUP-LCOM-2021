@@ -1,0 +1,4 @@
+<map id="generate_board_tileset_sprites" name="generate_board_tileset_sprites">
+<area shape="rect" id="node1" title="Generates the floor tiles of the game board." alt="" coords="164,5,319,47"/>
+<area shape="rect" id="node2" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,13,116,39"/>
+</map>

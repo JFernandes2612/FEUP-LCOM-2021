@@ -1,0 +1,4 @@
+<map id="generate_board_tileset_sprites" name="generate_board_tileset_sprites">
+<area shape="rect" id="node1" title="Generates the floor tiles of the game board." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#aa94da1d9467049006badbe0db10e9ece" title="Generates a struct containing all the information regarding a XPM in img." alt="" coords="208,13,297,39"/>
+</map>

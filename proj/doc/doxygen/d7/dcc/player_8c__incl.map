@@ -1,0 +1,13 @@
+<map id="player.c" name="player.c">
+<area shape="rect" id="node1" title=" " alt="" coords="289,5,357,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="67,379,146,405"/>
+<area shape="rect" id="node3" title=" " alt="" coords="214,379,306,405"/>
+<area shape="rect" id="node4" title=" " alt="" coords="345,379,433,405"/>
+<area shape="rect" id="node5" href="$d3/d62/player_8h.html" title=" " alt="" coords="173,155,243,181"/>
+<area shape="rect" id="node8" href="$dc/d1b/rtc_8h.html" title=" " alt="" coords="449,80,497,107"/>
+<area shape="rect" id="node10" href="$d7/d04/graphics_8h.html" title=" " alt="" coords="167,80,249,107"/>
+<area shape="rect" id="node6" href="$dd/d5a/entities_8h.html" title=" " alt="" coords="93,229,168,256"/>
+<area shape="rect" id="node7" href="$d3/def/sprites_8h.html" title=" " alt="" coords="195,304,309,331"/>
+<area shape="rect" id="node9" title=" " alt="" coords="435,155,541,181"/>
+<area shape="rect" id="node11" href="$d6/d4f/enemies_8h.html" title=" " alt="" coords="67,155,149,181"/>
+</map>

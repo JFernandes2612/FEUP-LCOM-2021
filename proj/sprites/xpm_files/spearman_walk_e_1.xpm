@@ -1,0 +1,267 @@
+64 64 202 2 
+   c #130C08
+.  c #190D08
+X  c #0E160C
+o  c #111409
+O  c #1C1108
++  c #12190C
+@  c #191B0C
+#  c #141A10
+$  c #1A1B13
+%  c #1F1611
+&  c #231508
+*  c #261909
+=  c #2C1B09
+-  c #321D0A
+;  c #241A13
+:  c #2A1F12
+>  c #231E1C
+,  c #19210F
+<  c #1A2212
+1  c #1E2A16
+2  c #35210A
+3  c #3B240C
+4  c #3D280C
+5  c #212915
+6  c #25211C
+7  c #2A231D
+8  c #222D19
+9  c #2C2D17
+0  c #342611
+q  c #3B2B12
+w  c #3A2A1A
+e  c #3B2512
+r  c #26321C
+t  c #2A351D
+y  c #2E3C1F
+u  c #1D1C23
+i  c #242224
+p  c #2B2522
+a  c #2E2923
+s  c #29272B
+d  c #2B2A2C
+f  c #26292E
+g  c #332A25
+h  c #392D25
+j  c #342C2B
+k  c #3A2F2A
+l  c #312525
+z  c #2D3B21
+x  c #293521
+c  c #343427
+v  c #3C322B
+b  c #353629
+n  c #2D2C31
+m  c #302E35
+M  c #333334
+N  c #3A3433
+B  c #3B373D
+V  c #3D393C
+C  c #353439
+Z  c #442A0E
+A  c #442710
+S  c #432A11
+D  c #4A2C11
+F  c #412E1C
+G  c #502D10
+H  c #463213
+J  c #4C3111
+K  c #49331A
+L  c #533312
+P  c #5A3514
+I  c #563812
+U  c #5B3A14
+Y  c #54391D
+T  c #5D3B19
+R  c #643D18
+E  c #623F15
+W  c #402E21
+Q  c #4B3624
+!  c #42352D
+~  c #483B2E
+^  c #463724
+/  c #543E20
+(  c #413631
+)  c #433A31
+_  c #4B3D33
+`  c #423C3B
+'  c #493E3C
+]  c #403738
+[  c #324123
+{  c #3E4E2E
+}  c #644219
+|  c #6C4419
+ . c #604116
+.. c #724918
+X. c #4C433C
+o. c #46433E
+O. c #52443B
++. c #5B4539
+@. c #5A493C
+#. c #554334
+$. c #614D3F
+%. c #6F553A
+&. c #3C3B42
+*. c #403F48
+=. c #3F4245
+-. c #4C4442
+;. c #46454D
+:. c #4B494B
+>. c #494546
+,. c #5A4C43
+<. c #544C49
+1. c #564C43
+2. c #5C514C
+3. c #5F5544
+4. c #4A4B53
+5. c #494E59
+6. c #5F5A5C
+7. c #595252
+8. c #644F43
+9. c #645B4C
+0. c #6E594D
+q. c #695546
+w. c #755C4C
+e. c #7A5C4E
+r. c #6C5E5B
+t. c #655A54
+y. c #785F50
+u. c #6E604D
+i. c #70624F
+p. c #79634F
+a. c #6B6154
+s. c #776255
+d. c #7B6352
+f. c #796C58
+g. c #565A61
+h. c #5B5D64
+j. c #565761
+k. c #696367
+l. c #746C65
+z. c #796966
+x. c #776A69
+c. c #7C7269
+v. c #6B6C74
+b. c #797173
+n. c #856956
+m. c #896E5B
+M. c #896A56
+N. c #8D715C
+B. c #93735D
+V. c #806F6D
+C. c #857768
+Z. c #947562
+A. c #977A65
+S. c #9B7A64
+D. c #9D7764
+F. c #827875
+G. c #8C7D75
+H. c #A37C6B
+J. c #8C806B
+K. c #9E806A
+L. c #8B8479
+P. c #95877A
+I. c #968775
+U. c #9C927F
+Y. c #AB856E
+T. c #A8886D
+R. c #AC8972
+E. c #A48776
+W. c #B0947B
+Q. c #B38875
+!. c #7E7D86
+~. c #978B85
+^. c #9B9389
+/. c #898894
+(. c #99969D
+). c #A1948A
+_. c #AB9B8A
+`. c #A49686
+'. c #A79D93
+]. c #B49983
+[. c #ADA092
+{. c #9696A2
+}. c #A59EA7
+|. c #9CA1AF
+ X c #A7A3AF
+.X c #A5A0B0
+XX c #D8A38D
+oX c #CDAB98
+OX c #DBB8A1
++X c #EBBDA3
+@X c #F0BDA1
+#X c #DFC6AD
+$X c #D3C8B9
+%X c #EBCEAF
+&X c #FAD5B9
+*X c #F7CAAE
+=X c #E8DDC7
+-X c #FFE5C9
+;X c #FDE7C7
+:X c #FFF8DB
+>X c #F5F1E6
+,X c #FF00DC
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X2.x.x.r.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X<.r.z.G.z.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,XN <.2.z.z.t.l.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xj ' ' 2.t.F.=X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X7 N k V X.%X%X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X$ i ' 8.,.@XOX,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X> 0.XXH.XXoX,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X6 p e.n.e.Z.].,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X3 Y B.Y.Q.s.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X= 4 U P R } K {.|.}..X.X X}.).,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X* L T T R  .G X.V j p 7 j -.r.^.F.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X6.= P  .| ..| J D ; ; % ; 6 7 a ] b.x.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xj.;.m A U U } R R D P w 7 p 7 p g a l N r.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X<.;.s ; @ D L P R U D J I F g a 7 g g c j j V k.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X>.j > 6 6 g S G P P L 4 J U D j g j l v v a k C ;.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X&.i 6 > 6 6 > Z Z G G G S J D S v v j v g h j k V V 4.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xs u p 7 p g a 7 A A D D 3 A S S S v N ) ! X._ ) v v &.*.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xp i p a p p p : 4 A A Z - - 3 A S X.) ! v ! v k v p &.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xi s p 7 g 7 a : - 4 Z 3 = = 3 4 F v 7 7 p v g v N v C ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xi s s 7 6 7 : - - - = = = 2 3 F <.l ) v X.O.-.>.n ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xi a a 7 v M.$.e = = = 2 - W ~.$X^.-.` m f ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xu > 2.*X*X^ & = = - 3 @.s.y._.P.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,XE.&X;X~ = & - 4 @.#.w.H.E.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,XW.;X:Xu.X.#.+.+.Q e P.C.`.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xh./.(.q.Z P P L S = ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,XC 5.h.~ D P L G 3 & ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X- j 4.g.Y J G D 4 Q ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xg 4.6.J Z 3 Z 9.~.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xv 5.6.#.@.z.^.'.^.F.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xb :.6.l.c.C.P.U.^.[.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,.I.c.2.9.a.C.P._.[.L.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+S.D.A.S.H.B.D.N.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X$X:X>XL.1.9.f.J.U._.`.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+h v v ! #.#.@.8.q.w.d.n.N.N.B.B.Z.Z.N.Z.Z.S.K.T.T.R.R.N.;X;X;XoXC.i.i.f.I._.I.3.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xh v v v ! ~ #.,.%X+X*X0.q.w.p.d.n.N.Z.A.Z.B.Z.S.D.T.Y.R.R.R.K.,X,X,X,X,X,X{.(.,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xg 7 7 c o.-.t.t.1.6 ,Xg g h h h ! ) _ #.@.8.q.w.d.n.s.!./.{.(.v.4.,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X$ + a j N o.<.X.z [ ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xm j n ,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X+ + # 6 7 6 $ 1 z { ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X< + + # + X + + 8 [ z ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X, < + # $ ,X,XX X @ 1 y ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X, < + # o ,X,X,X+ X , 1 < ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X< + X X @ ,X,X,X< < 1 1 @ ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X+ , o   o 2 ,X,X8 z t t x ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X+ , o o @ - ,X,Xz [ t t 8 ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X< $ o X * & ,X8 z y r 1 2 ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X0 < o $ 2 ,X,Xy [ r 5 q H ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X7 * - = - * ,X9 [ y 8 9 D ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X>.h O & O . ,XR [ y 8 Z - ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X` <.-.N M 0 Z J H H - ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,XO * 7 C n ,Xb.w = = = O ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,Xo.& * O ,X,X:.v.N & ; ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X` 6.( k N * - j *.<.,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X= q h m M ,.^ - & O ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X& D - * = 1.!.w & ; ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,XO * & O = T <.g.h.%. .,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,XO O   0 L L K /  .| | | } ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X& 2 2 2 4 H  .} ....,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X& & * * = 4 L I U e ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X      O * = = = ,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X
+,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X

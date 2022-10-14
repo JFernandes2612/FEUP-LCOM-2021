@@ -1,0 +1,10 @@
+<map id="rtc_write_register" name="rtc_write_register">
+<area shape="rect" id="node1" title="Writes to the Register reg of the RTC data." alt="" coords="989,43,1113,69"/>
+<area shape="rect" id="node2" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,17,116,44"/>
+<area shape="rect" id="node3" href="$dc/d1b/rtc_8h.html#ae91804ce10b51363ab8dcee2bb002c5e" title="Sets an alarm at hours : minutes : seconds." alt="" coords="834,43,935,69"/>
+<area shape="rect" id="node8" href="$dc/d1b/rtc_8h.html#a0b956beb30165538fcd684d0ee75b1a6" title="Sets the periodic interrupts time to send interrupts every delta_t." alt="" coords="828,93,941,120"/>
+<area shape="rect" id="node4" href="$dc/d1b/rtc_8h.html#adb4289b2015a3ec052bae20542244311" title="Sets an alarm at current_time + delta_seconds." alt="" coords="631,43,780,69"/>
+<area shape="rect" id="node5" href="$d3/d62/player_8h.html#aa281b82564297b42eb7b3bf734650e36" title="The spearman uses its special ability." alt="" coords="457,43,583,69"/>
+<area shape="rect" id="node6" href="$d3/d62/player_8h.html#a43024b59b971eee693bdf802580d046e" title="The spearman acts acording to action in PA." alt="" coords="307,43,409,69"/>
+<area shape="rect" id="node7" href="$dd/d65/game__helper_8h.html#ac2e814f8670e374692b399122563067d" title="Performs all game logic and displaying that occurs every frame depending on the game state." alt="" coords="164,43,259,69"/>
+</map>

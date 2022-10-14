@@ -1,0 +1,4 @@
+<map id="uart_com1_unsubscribe_int" name="uart_com1_unsubscribe_int">
+<area shape="rect" id="node1" title="Unsubscribes the interrupts for the UART COM1 serial port." alt="" coords="164,5,343,32"/>
+<area shape="rect" id="node2" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,5,116,32"/>
+</map>

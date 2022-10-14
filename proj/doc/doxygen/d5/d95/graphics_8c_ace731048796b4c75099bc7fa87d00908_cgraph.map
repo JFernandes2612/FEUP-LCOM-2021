@@ -1,0 +1,5 @@
+<map id="paint_text" name="paint_text">
+<area shape="rect" id="node1" title="Paints in the screen s." alt="" coords="5,5,84,32"/>
+<area shape="rect" id="node2" href="$d5/d95/graphics_8c.html#a6386a61a54c277c05a7ab9d5737edcd8" title="Paints a XPM file in the screen at coordinates ( start_x , start_y )" alt="" coords="132,5,215,32"/>
+<area shape="rect" id="node3" href="$d5/d95/graphics_8c.html#ac8c3ed74f805c5bccd091d94f5d72242" title="Paints a pixel in coordinates ( x , y ) with colour." alt="" coords="263,5,347,32"/>
+</map>

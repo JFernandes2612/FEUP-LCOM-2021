@@ -1,0 +1,11 @@
+<map id="send_data_uart" name="send_data_uart">
+<area shape="rect" id="node1" title="Sends a byte to the UART." alt="" coords="723,81,833,108"/>
+<area shape="rect" id="node2" href="$dd/d65/game__helper_8h.html#a7562d024344a09070adef285be55ef46" title="Processes the input that comes from the keyboard and executes the associated logic." alt="" coords="170,5,299,32"/>
+<area shape="rect" id="node4" href="$dd/d65/game__helper_8h.html#a72c30bee155342f972c892a5a8d4a175" title="Processes the input that comes from the mouse and executes the associated logic." alt="" coords="353,56,500,83"/>
+<area shape="rect" id="node5" href="$d2/d86/uart_8h.html#ad98091201e75ffc65de031e31b3e4032" title="First step of syncing the players in COOP mode." alt="" coords="557,107,665,133"/>
+<area shape="rect" id="node9" href="$d2/d86/uart_8h.html#a265bc12c2a740b346234525c57d8b5a3" title="Second step of syncing the player in COOP mode." alt="" coords="548,157,675,184"/>
+<area shape="rect" id="node3" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,81,116,108"/>
+<area shape="rect" id="node6" href="$dd/d65/game__helper_8h.html#ac2e814f8670e374692b399122563067d" title="Performs all game logic and displaying that occurs every frame depending on the game state." alt="" coords="187,107,282,133"/>
+<area shape="rect" id="node7" href="$d2/d86/uart_8h.html#af9200beb59291796d837e367401299b4" title=" " alt="" coords="378,157,475,184"/>
+<area shape="rect" id="node8" href="$dd/d65/game__helper_8h.html#a03d9f7e90ecc6a670f43c0510bf272c0" title="Processes the incoming packet from the UART (COM1) and executes the associated logic." alt="" coords="164,157,305,184"/>
+</map>

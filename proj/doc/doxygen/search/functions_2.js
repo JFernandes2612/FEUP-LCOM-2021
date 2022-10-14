@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['create_5fbackground_456',['create_background',['../d5/d95/graphics_8c.html#ae495df15c9dad2e1d052e15c6526423e',1,'create_background():&#160;graphics.c'],['../d7/d04/graphics_8h.html#ae495df15c9dad2e1d052e15c6526423e',1,'create_background():&#160;graphics.c']]],
+  ['create_5fcursor_457',['create_cursor',['../d5/d95/graphics_8c.html#a56ae7ead1e144d8f406249a6287af78e',1,'create_cursor():&#160;graphics.c'],['../d7/d04/graphics_8h.html#a56ae7ead1e144d8f406249a6287af78e',1,'create_cursor():&#160;graphics.c']]],
+  ['create_5fenemies_458',['create_enemies',['../d2/dba/game__helper_8c.html#aa1ee142c726e35646cf2262524f54d14',1,'create_enemies(struct Game game):&#160;game_helper.c'],['../dd/d65/game__helper_8h.html#aa1ee142c726e35646cf2262524f54d14',1,'create_enemies(struct Game game):&#160;game_helper.c']]],
+  ['create_5fg_5fblob_459',['create_g_blob',['../db/d6f/enemies_8c.html#a1543e46ad54303b0781dd9bb4eac88e8',1,'create_g_blob(uint8_t x, uint8_t y, enum Direction movement):&#160;enemies.c'],['../d6/d4f/enemies_8h.html#a1543e46ad54303b0781dd9bb4eac88e8',1,'create_g_blob(uint8_t x, uint8_t y, enum Direction movement):&#160;enemies.c']]],
+  ['create_5fgrid_5fimage_460',['create_grid_image',['../d7/dc7/sprites_8c.html#ac0e99b9f7235b18b249df2527ee3eebc',1,'create_grid_image(xpm_image_t *image, const int x_offset, const int y_offset):&#160;sprites.c'],['../d3/def/sprites_8h.html#ac0e99b9f7235b18b249df2527ee3eebc',1,'create_grid_image(xpm_image_t *image, const int x_offset, const int y_offset):&#160;sprites.c']]],
+  ['create_5fspearman_461',['create_spearman',['../d1/db8/player_8c.html#af0ddce6da5510e0a1f6978c51c37e8a3',1,'create_spearman(const uint8_t x, const uint8_t y):&#160;player.c'],['../d3/d62/player_8h.html#af0ddce6da5510e0a1f6978c51c37e8a3',1,'create_spearman(const uint8_t x, const uint8_t y):&#160;player.c']]]
+];

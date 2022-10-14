@@ -1,0 +1,264 @@
+64 64 199 2 
+   c #150C08
+.  c #190F08
+X  c #0F170D
+o  c #14140B
+O  c #1C1209
++  c #141A0D
+@  c #161C11
+#  c #1A1D13
+$  c #191615
+%  c #221408
+&  c #251809
+*  c #2B1A09
+=  c #321E09
+-  c #241A13
+;  c #2F1F18
+:  c #1C210E
+>  c #192111
+,  c #1F2A16
+<  c #34210A
+1  c #3A240C
+2  c #3D280E
+3  c #212614
+4  c #2C2113
+5  c #232916
+6  c #2C241C
+7  c #232C18
+8  c #26221E
+9  c #362512
+0  c #3C2811
+q  c #33251B
+w  c #392815
+e  c #28321B
+r  c #333219
+t  c #242022
+y  c #2C2722
+u  c #28262B
+i  c #302723
+p  c #322B24
+a  c #342D2B
+s  c #293520
+d  c #353127
+f  c #3C3226
+g  c #35312A
+h  c #3A332C
+j  c #3E392A
+k  c #302F30
+l  c #343234
+z  c #3A3635
+x  c #3C3833
+c  c #3B393B
+v  c #452D0D
+b  c #41260D
+n  c #4E330F
+m  c #432B10
+M  c #4B2D11
+N  c #442A15
+B  c #4D3210
+V  c #523413
+C  c #5A3714
+Z  c #553812
+A  c #5B3B15
+S  c #5C3C1B
+D  c #643D18
+F  c #613D13
+G  c #42352C
+H  c #463B2D
+J  c #483223
+K  c #503D27
+L  c #443C34
+P  c #473E38
+I  c #654116
+U  c #654118
+Y  c #6C4418
+T  c #6D4818
+R  c #684115
+E  c #724618
+W  c #734918
+Q  c #794C1D
+!  c #494136
+~  c #47413D
+^  c #4B453D
+/  c #534333
+(  c #544A3D
+)  c #594A3A
+_  c #5E533D
+`  c #3E3E43
+'  c #403F45
+]  c #424143
+[  c #4F4A42
+{  c #4B494C
+}  c #464346
+|  c #514641
+ . c #534C45
+.. c #5C4C42
+X. c #534D4B
+o. c #5B4E4C
+O. c #56514A
++. c #5A534D
+@. c #4C4D52
+#. c #474B55
+$. c #504E50
+%. c #4E545C
+&. c #595452
+*. c #5C5953
+=. c #56595E
+-. c #5C5A5B
+;. c #595557
+:. c #645344
+>. c #6C5A4D
+,. c #65554B
+<. c #735648
+1. c #655D55
+2. c #655A57
+3. c #725C52
+4. c #6B615D
+5. c #6E6457
+6. c #7B6354
+7. c #786658
+8. c #5B5A61
+9. c #645C65
+0. c #646265
+q. c #6A6463
+w. c #6E6863
+e. c #696668
+r. c #65656D
+t. c #736764
+y. c #736B6A
+u. c #7B6E6A
+i. c #766A64
+p. c #676970
+a. c #716C72
+s. c #6D7074
+d. c #7C7771
+f. c #78757C
+g. c #7C7568
+h. c #835121
+j. c #826245
+k. c #826759
+l. c #846B5B
+z. c #876B59
+x. c #8E715D
+c. c #91715D
+v. c #9C785E
+b. c #8A6E60
+n. c #876E60
+m. c #8D7362
+M. c #82746C
+N. c #947763
+B. c #9D7E6B
+V. c #987A67
+C. c #867976
+Z. c #9F806C
+A. c #9D8572
+S. c #868178
+D. c #A3816E
+F. c #A58D7E
+G. c #B28D7A
+H. c #7A7E88
+J. c #817F80
+K. c #8E898F
+L. c #8A8085
+P. c #9F8D8A
+I. c #898B98
+U. c #928D92
+Y. c #9B959A
+T. c #A38F82
+R. c #A69689
+E. c #BB9A86
+W. c #BBA08C
+Q. c #BBA497
+!. c #9A97A2
+~. c #979AA9
+^. c #A5A7B5
+/. c #C09A85
+(. c #C49582
+). c #C8A893
+_. c #C8B29E
+`. c #DDB097
+'. c #D5AB95
+]. c #D3BFAB
+[. c #F0BDA1
+{. c #D6C7B4
+}. c #EDC5AB
+|. c #E4C6AC
+ X c #E9D4BB
+.X c #FACAAC
+XX c #BAB8C4
+oX c #D5CDC9
+OX c #CCC5C6
++X c #E7D3C1
+@X c #FFDEC4
+#X c #F3EBCE
+$X c #F7E9D0
+%X c #E0DCE0
+&X c #EAE7E8
+*X c #FFF5EB
+=X c #FFFBFD
+-X c #F5F1F3
+;X c #FF00DC
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X2.o.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X2.M.C.u.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xa 2.3.u.C.o.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xy | ' o.i.w.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X3.}.E.T.$X#X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xk.G.(.[.).|.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XD./.|.}..X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X6.z.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XB.G.F.R.E.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;XV.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X= M V.k.B.|.v.;Xq.T.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X) V.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X9 M 2 9 N <.j.V 1 a q.R.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X6.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XA D D D C 1 * 2 M 1 4 y w.Y.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;XD.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XV E Q Q E W E Z n n V 0 < 6 a !.L.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X,.V.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XA E W Q W D D C n V Z C 1 < = 6 =.XX;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;Xm.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xv D Y W Y D D F V n n D C C 1 = < 6 i ^.U.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;XL D.;X;X;X;X;X;X;X;X;X;X;X;X;X;X1 A U D A C M M b b v n C F V = * = q y 0.XX;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X,.N.;X;X;X;X;X;X;X;X;X;X;X;X;XoXS A B m = %   % * 1 M V M M =   <.(.y l ~.J.;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;Xb.;X;X;X;X;X;X;X;X;X;X;X;X-X*Xc.2 = ;X;X.   . & * 1 v m m & G '.@XN.a =.U.;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;XL B.;X;X;X;X;X;X;X;X;X;X&X=X X/ ;X;X;X;X;X% % & * = v 1 b & ;X`.Q.y.+.z f.;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X>.N.;X;X;X;X;X;X;X;XH.~.OX;X;X;X;X;X;X;X% & * = = < = 9 ;X;Xb.-.e.q...{ t.;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xm.;X;X;X;X;X;X;X#.I.!.H.;X;X;X;X;X;X;XO & & * * = 1 1 ;X;X;X] =.e.2.^ &.;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X! B.;X;X;X;X;X;Xp.!.K.$.;X;X;X;X;X;X;X& & & * * = 1 < ;X;X;X;X` 9.a...` e.;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X>.c.;X;X;X;X;XH.!.e.;X;X;X;X;X;X;Xd * & * & = 1 m 0 ;X;X;X;X;X] 0.4.a 8.;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xm.;X;X;X;X;X!.K.;X;X;X;X;X;X;X* 9 P = * * = N _ X.& ;X;X;X;X;X|  XA.c 9.;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X! D.;X;X;X-.Y.;X;X;X;X;X;X;X= 1 m 0 L | ;.&.o.H * * ;X;X;X;X;X;X6.{.g.#.;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X7.oX%X&X-Xi.;X;X;X;X;X;X;X& = 1 = = * * = < 2 = * ;X;X;X;X;X;XQ.{._.l $.;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XV.$X=X=XoX;X;X;X;X;X;X;X;Xh & * * * & * * 1 1 * % ;X;X;X;X;X;XB.).+Xu { ;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X/.+X{.;X;X;X;X;X;X;X;X;XL h O O & & & * = < * f x ;X;X;X;X;X;X;X;X;Xl @.;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X3.k.G.;X;X;X;X;X;X;X;X;Xx O.P ; O % & & = r / ^ h ;X;X;X;X;X;X;X;X;X$ } ;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xz.;X;X;X;X;X;X;X;X;Xx ( O.+.[ L j H / _ ) j g ;X;X;X;X;X;X;X;X;X;Xt ` ;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X^ x.;X;X;X;X;X;X;X;Xh !  .O.+.*.+.( ) :._  .z ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X>.6.;X;X;X;X;X;X;Xd ^ X.O.O.*.*.*.1.5.g.4.x ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xc.;X;X;X;X;X;X;Xg ! [ O.*.*.*.4.7.d.S.u.~ ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X^ x.;X;X;X;X;X;Xx ~ X.O.O.*.-.4.y.d.S.2.c ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X6.6.;X;X;X;X;Xg L L ! ! ^ O.1.4.w.i.O.g ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xm.;X;X;X;X;X;Xy g f e d j ! +.1.7.X.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X..x.;X;X;X;X;X$ @ $ 8 e h [ +.{ L # ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X3.;X;X;X;X;X+ > + $ ;X;X$ + + 3 : ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XN.;X;X;X;X+ @ > @ ;X;X+ > > 5 ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X..c.;X;X;X;X> > @ ;X;X+ > # e ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X6.;X;X;X+ + > > ;X;XX > > e ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XL N.;X;X+ > + 5 ;X;XX > 5 s ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X,.x.;X+ @ > 7 ;X;XX + , e ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xx.,.> @ , 7 ;X;Xo X # e , ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X} K.Y.U Z 5 ;X;X;XX + 7 , ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xu s.^./ Z 9 ;X;X;X+ Z U r ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xl H.2.1 m ;X;X;X< m M m ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XO z 0.< N ;X;X* * * 1 m ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XO % x w < ;X;XO * * < < ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xz a % & G ;X;X$ O & = 9 ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X@.r.s.r.;X;X;X8 . J w.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X. - 8 - ;X;X;X` %.=.i ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X- % * i ;X;X;XO   & q ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;Xp.q.f.%.;X;X;X} i ! a.;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X* K ..:.w ;X;X;Xh =.t.) ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X& V W W 2 ;X;X;Xv U W Z ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XO V U W 1 ;X;X;Xv T T Z ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XO Z U Q M ;X;X;XV W T Z ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XO S T h.A ;X;X;XI Q Q A ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;XB Y Q R ;X;X;XT Q T B ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X< V A n ;X;X  V I S 1 ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X  O & ;X;X;X;XO * * ;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X
+;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X;X

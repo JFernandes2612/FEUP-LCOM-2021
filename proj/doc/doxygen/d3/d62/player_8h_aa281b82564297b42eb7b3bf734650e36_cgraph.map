@@ -1,0 +1,12 @@
+<map id="spearman_special" name="spearman_special">
+<area shape="rect" id="node1" title="The spearman uses its special ability." alt="" coords="5,56,131,83"/>
+<area shape="rect" id="node2" href="$d5/df6/entities_8c.html#a7458b099aabee51298042e2edde9e2d8" title="Modifies the HP of an Entity in position ( x , y ) by health_mod." alt="" coords="194,31,313,57"/>
+<area shape="rect" id="node3" href="$d4/dcc/rtc_8c.html#adb4289b2015a3ec052bae20542244311" title="Sets an alarm at current_time + delta_seconds." alt="" coords="179,81,328,108"/>
+<area shape="rect" id="node4" href="$d4/dcc/rtc_8c.html#a9a867345f9d2703ac913a6b8624f560c" title="Converts a number in BCD to binary." alt="" coords="376,5,479,32"/>
+<area shape="rect" id="node5" href="$d4/dcc/rtc_8c.html#a36f9a08f7379a6156dfbdd5da41a8668" title="Converts a number in binary to BCD." alt="" coords="376,56,479,83"/>
+<area shape="rect" id="node6" href="$d4/dcc/rtc_8c.html#a01efed7ef3d173bcbbeefbde025f38ac" title="Reads the time from the RTC." alt="" coords="376,107,479,133"/>
+<area shape="rect" id="node9" href="$d4/dcc/rtc_8c.html#ae91804ce10b51363ab8dcee2bb002c5e" title="Sets an alarm at hours : minutes : seconds." alt="" coords="377,157,478,184"/>
+<area shape="rect" id="node7" href="$d4/dcc/rtc_8c.html#abf6f23e3a37b625fce812ca09b3f35df" title="Reads the Register reg of the RTC." alt="" coords="528,107,649,133"/>
+<area shape="rect" id="node8" href="$d3/d91/utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Gets from port 8 bit information to value." alt="" coords="699,107,788,133"/>
+<area shape="rect" id="node10" href="$d4/dcc/rtc_8c.html#a9356a574f1893f56d0973dd06db6ed74" title="Writes to the Register reg of the RTC data." alt="" coords="527,157,651,184"/>
+</map>

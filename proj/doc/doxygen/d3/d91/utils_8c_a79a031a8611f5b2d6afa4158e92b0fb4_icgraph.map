@@ -1,0 +1,25 @@
+<map id="util_sys_inb" name="util_sys_inb">
+<area shape="rect" id="node1" title="Gets from port 8 bit information to value." alt="" coords="1304,138,1393,164"/>
+<area shape="rect" id="node2" href="$dc/ded/mouse_8h.html#a79f822ee418bebe387c463fbb343106c" title="Writes cmd to the KBC." alt="" coords="1115,36,1256,63"/>
+<area shape="rect" id="node3" href="$dc/ded/mouse_8h.html#a090c9bebd05709adc5de77ab5b26d7c3" title="Writes cmd to the mouse." alt="" coords="908,36,1067,63"/>
+<area shape="rect" id="node5" href="$d7/df4/kbd_8h.html#a30e6fd04d6255aeee6c061cae85490ee" title="Parses the KBC keyboard data." alt="" coords="930,87,1045,114"/>
+<area shape="rect" id="node6" href="$dc/ded/mouse_8h.html#aed4404005e4c565ac36656307386e0ac" title="Mouse interrupt handler." alt="" coords="747,138,824,164"/>
+<area shape="rect" id="node7" href="$dc/d1b/rtc_8h.html#abf6f23e3a37b625fce812ca09b3f35df" title="Reads the Register reg of the RTC." alt="" coords="1125,239,1246,266"/>
+<area shape="rect" id="node18" href="$d2/d86/uart_8h.html#a1fecae2103dd5c010cb5e507e93d8125" title="Sends a byte to the UART." alt="" coords="730,391,841,418"/>
+<area shape="rect" id="node23" href="$d2/d86/uart_8h.html#a67d2da4dd20c731989c130bbe2cd4c85" title="UART&#39;s interrupt handler." alt="" coords="1154,518,1217,544"/>
+<area shape="rect" id="node4" href="$df/def/_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="5,264,116,291"/>
+<area shape="rect" id="node8" href="$dc/d1b/rtc_8h.html#a2f5c62ef4118ce8c03eaa21181ebee4d" title="RTC interrupt handler." alt="" coords="758,239,813,266"/>
+<area shape="rect" id="node9" href="$dc/d1b/rtc_8h.html#a01efed7ef3d173bcbbeefbde025f38ac" title="Reads the time from the RTC." alt="" coords="936,290,1039,316"/>
+<area shape="rect" id="node17" href="$dc/d1b/rtc_8h.html#a0b956beb30165538fcd684d0ee75b1a6" title="Sets the periodic interrupts time to send interrupts every delta_t." alt="" coords="931,340,1044,367"/>
+<area shape="rect" id="node10" href="$dd/d65/game__helper_8h.html#aa1ee142c726e35646cf2262524f54d14" title="Generates the random enemy board on the grid." alt="" coords="367,290,480,316"/>
+<area shape="rect" id="node13" href="$dc/d1b/rtc_8h.html#adb4289b2015a3ec052bae20542244311" title="Sets an alarm at current_time + delta_seconds." alt="" coords="711,467,860,494"/>
+<area shape="rect" id="node11" href="$dd/d65/game__helper_8h.html#a72c30bee155342f972c892a5a8d4a175" title="Processes the input that comes from the mouse and executes the associated logic." alt="" coords="164,290,311,316"/>
+<area shape="rect" id="node12" href="$dd/d65/game__helper_8h.html#a03d9f7e90ecc6a670f43c0510bf272c0" title="Processes the incoming packet from the UART (COM1) and executes the associated logic." alt="" coords="167,340,308,367"/>
+<area shape="rect" id="node14" href="$d3/d62/player_8h.html#aa281b82564297b42eb7b3bf734650e36" title="The spearman uses its special ability." alt="" coords="537,492,662,519"/>
+<area shape="rect" id="node15" href="$d3/d62/player_8h.html#a43024b59b971eee693bdf802580d046e" title="The spearman acts acording to action in PA." alt="" coords="372,492,475,519"/>
+<area shape="rect" id="node16" href="$dd/d65/game__helper_8h.html#ac2e814f8670e374692b399122563067d" title="Performs all game logic and displaying that occurs every frame depending on the game state." alt="" coords="190,442,285,468"/>
+<area shape="rect" id="node19" href="$dd/d65/game__helper_8h.html#a7562d024344a09070adef285be55ef46" title="Processes the input that comes from the keyboard and executes the associated logic." alt="" coords="359,543,488,570"/>
+<area shape="rect" id="node20" href="$d2/d86/uart_8h.html#ad98091201e75ffc65de031e31b3e4032" title="First step of syncing the players in COOP mode." alt="" coords="545,442,653,468"/>
+<area shape="rect" id="node22" href="$d2/d86/uart_8h.html#a265bc12c2a740b346234525c57d8b5a3" title="Second step of syncing the player in COOP mode." alt="" coords="536,391,663,418"/>
+<area shape="rect" id="node21" href="$d2/d86/uart_8h.html#af9200beb59291796d837e367401299b4" title=" " alt="" coords="375,391,472,418"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="rtc_write_register" name="rtc_write_register">
+<area shape="rect" id="node1" title="Writes to the Register reg of the RTC data." alt="" coords="167,56,291,83"/>
+<area shape="rect" id="node2" href="$_l_c_o_m_8c.html#a2a16f651eccbd248e1ad3b3b924b143b" title=" " alt="" coords="7,5,117,32"/>
+<area shape="rect" id="node3" href="$rtc_8h.html#ae91804ce10b51363ab8dcee2bb002c5e" title="Sets an alarm at hours : minutes : seconds." alt="" coords="11,56,113,83"/>
+<area shape="rect" id="node4" href="$rtc_8h.html#a0b956beb30165538fcd684d0ee75b1a6" title="Sets the periodic interrupts time to send interrupts every delta_t." alt="" coords="5,107,119,133"/>
+</map>

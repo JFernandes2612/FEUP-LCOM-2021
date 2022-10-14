@@ -1,0 +1,10 @@
+<map id="enemies.c" name="enemies.c">
+<area shape="rect" id="node1" title=" " alt="" coords="130,5,210,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="25,304,104,331"/>
+<area shape="rect" id="node3" title=" " alt="" coords="145,304,237,331"/>
+<area shape="rect" id="node4" title=" " alt="" coords="276,304,364,331"/>
+<area shape="rect" id="node5" href="$d6/d4f/enemies_8h.html" title=" " alt="" coords="37,80,118,107"/>
+<area shape="rect" id="node8" href="$da/d15/grid_8h.html" title=" " alt="" coords="142,80,197,107"/>
+<area shape="rect" id="node6" href="$dd/d5a/entities_8h.html" title=" " alt="" coords="104,155,179,181"/>
+<area shape="rect" id="node7" href="$d3/def/sprites_8h.html" title=" " alt="" coords="126,229,240,256"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="process_kbd_input" name="process_kbd_input">
+<area shape="rect" id="node1" title="Processes the input that comes from the keyboard and executes the associated logic." alt="" coords="5,31,135,57"/>
+<area shape="rect" id="node2" href="$d5/df6/entities_8c.html#a99c30635d189d8cee6678e4953e659dc" title="Deletes the grid entities (frees memory)" alt="" coords="195,5,281,32"/>
+<area shape="rect" id="node3" href="$d1/d87/uart_8c.html#a1fecae2103dd5c010cb5e507e93d8125" title="Sends a byte to the UART." alt="" coords="183,56,293,83"/>
+<area shape="rect" id="node4" href="$d3/d91/utils_8c.html#a79a031a8611f5b2d6afa4158e92b0fb4" title="Gets from port 8 bit information to value." alt="" coords="341,56,431,83"/>
+</map>
